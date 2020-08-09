@@ -1,0 +1,353 @@
+---
+title: Food FAQ
+author: Justin
+type: page
+date: 2009-08-13T22:18:17+00:00
+
+---
+This is being updated. In the mean time:
+
+# **FAQ v1.1**
+  
+By Gant
+  
+with Justin (Last updated 11-30-09)
+  
+
+  
+_Questions that are frequently asked&#8230;or those that should be._
+
+_**Which diet should I use to get 70’s Big?**_
+
+Any &#8220;diet&#8221; that has a name won’t get you to the top of the mountain. If you’re counting blocks, forget about it.
+  
+
+  
+The first order of business is getting your protein squared away. Your diet is pass/fail depending on your protein intake. You should consume _at least_ 1 gram of protein per pound of bodyweight each day if you want to grow (1.5-2 g/lb BW or more may be necessary).
+  
+
+  
+_**What about carbs and fat?**_
+
+_[Listen to me now and hear me forever][1]&#8230;_**<span style="text-decoration: underline">macronutrient ratios are largely irrelevant if you’re above 15% bodyfat.</span>**
+  
+
+  
+Assuming you comply with the first rule, total calories are your major concern at this point. If you have a compelling need to be lean (e.g. you’re a weight-class athlete) you can start tweaking once you go below about 15% bodyfat mark.
+  
+
+  
+_**I’m going to ignore your advice and ask about macros anyway.**_
+
+There are hundreds of books, articles, and blogs out there that discuss this crap. We’re not going there. But here is a simple guide to macros. It is not completely technically correct, but it gives you an idea about the concepts. **Protein** is for building and maintaining muscle mass, **carbohydrates** fuel your efforts, and **fat** fuels your recovery. If you’re falling behind in any of these areas, increase the appropriate macro.
+  
+
+  
+**_How much do I need to eat?_**
+
+1) More
+  
+
+  
+2) There is an old business adage, &#8220;don’t dress for a job you have; dress for the job you want.&#8221; Apply this to your eating. If you want to be 215, you need to eat for 215, not for your 165 pound sprint-Tri doing self. You won’t get 70’s Big by pushing bird seed around your plate at your local hippy bistro. Start with 125-150% of what you’re eating now and see how that goes for a couple weeks.
+  
+
+  
+_**I can’t eat all the food. Can’t I just train harder?**_
+
+**Eating is training.** Beowulf had Grendel. We have Mongolian and Chinese buffets. If you don’t have at least one dining experience every couple of weeks that resembles an epic struggle worthy of telling over beers, you’ll be putting from the rough for the foreseeable future.
+  
+
+  
+We understand that eating for size and strength, especially if you have a high metabolism, is not easy. The body is very good at adjustment to small increases in caloric consumption. You may have to double your current intake to make appreciable gains. That’s why the gallon of whole milk a day works so well for the lean guys.
+  
+
+  
+_**What about new age diets?**_
+
+I don’t care if you know a friend of a friend who got &#8220;swole&#8221; on a raw food vegan diet. It doesn’t matter that your tofu-eating emo buddy finally pulled 205 off the pins. The rules apply, and you must obey them. Whole milk and hamburgers build a sturdier foundation than sprouts and soy.
+  
+
+  
+_**What do I eat?**_
+
+Anything that has a face and can run/swim/fly away from you. Anything that comes from such animals. Pretty much anything that grew in the ground, on a vine, or in a tree. Use some common sense, but select the most caloric dense items you can find.
+  
+
+  
+_**Hey, what about us fat guys?**_
+
+If you are a bigger guy with a high body fat percentage already, then your approach will be slightly different. A diet consisting of milk, meat, vegetables/fruit, and fat will do the trick &#8212; this is essentially a &#8220;Paleo&#8221;-type diet with milk Your protein requirements are the same (but obviously more), and more of your calories will need to come from fat. Olive oil can be added in to do the trick.
+  
+
+  
+_**Do you have any example of 70s Big meals?**_
+
+Of course. This will be updated as time goes by. Here are a few samples.
+  
+
+  
+
+
+<div id="attachment_291" style="width: 410px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-291" data-attachment-id="291" data-permalink="/?attachment_id=291" data-orig-file="/2009/10/IMG_0462.JPG" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1238283337&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Three of the basic food groups." data-image-description="" data-medium-file="/2009/10/IMG_0462-400x300.jpg" data-large-file="/2009/10/IMG_0462-1024x768.jpg" class="size-medium wp-image-291" src="/2009/10/IMG_0462-400x300.jpg" alt="Three of the basic food groups." width="400" height="300" srcset="/2009/10/IMG_0462-400x300.jpg 400w, /2009/10/IMG_0462-1024x768.jpg 1024w, /2009/10/IMG_0462.JPG 1600w" sizes="(max-width: 400px) 100vw, 400px" />
+  
+  <p id="caption-attachment-291" class="wp-caption-text">
+    Three of the basic food groups.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_292" style="width: 410px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-292" data-attachment-id="292" data-permalink="/?attachment_id=292" data-orig-file="/2009/10/IMG_2041.JPG" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1253037898&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="3/4 lb. PWO for deadlift days. Not picture: large vanilla milkshake." data-image-description="" data-medium-file="/2009/10/IMG_2041-400x300.jpg" data-large-file="/2009/10/IMG_2041-1024x768.jpg" class="size-medium wp-image-292" src="/2009/10/IMG_2041-400x300.jpg" alt="3/4 lb. PWO for deadlift days. Not picture: large vanilla milkshake." width="400" height="300" srcset="/2009/10/IMG_2041-400x300.jpg 400w, /2009/10/IMG_2041-1024x768.jpg 1024w, /2009/10/IMG_2041.JPG 1600w" sizes="(max-width: 400px) 100vw, 400px" />
+  
+  <p id="caption-attachment-292" class="wp-caption-text">
+    3/4 lb. PWO for deadlift days. Not picture: large vanilla milkshake.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_293" style="width: 310px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-293" data-attachment-id="293" data-permalink="/?attachment_id=293" data-orig-file="/2009/10/IMG_1858.JPG" data-orig-size="1200,1600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1248820328&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="This is what your freezer should look like." data-image-description="" data-medium-file="/2009/10/IMG_1858-300x400.jpg" data-large-file="/2009/10/IMG_1858-768x1024.jpg" class="size-medium wp-image-293" src="/2009/10/IMG_1858-300x400.jpg" alt="This is what your freezer should look like." width="300" height="400" srcset="/2009/10/IMG_1858-300x400.jpg 300w, /2009/10/IMG_1858-768x1024.jpg 768w, /2009/10/IMG_1858.JPG 1200w" sizes="(max-width: 300px) 100vw, 300px" />
+  
+  <p id="caption-attachment-293" class="wp-caption-text">
+    This is what your freezer should look like.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_294" style="width: 310px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-294" data-attachment-id="294" data-permalink="/?attachment_id=294" data-orig-file="/2009/10/IMG_1867.JPG" data-orig-size="1200,1600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1249348322&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Two days&#8221;&#8221;&#8221;&#8221; worth." data-image-description="" data-medium-file="/2009/10/IMG_1867-300x400.jpg" data-large-file="/2009/10/IMG_1867-768x1024.jpg" class="size-medium wp-image-294" src="/2009/10/IMG_1867-300x400.jpg" alt="Two days’ worth." width="300" height="400" srcset="/2009/10/IMG_1867-300x400.jpg 300w, /2009/10/IMG_1867-768x1024.jpg 768w, /2009/10/IMG_1867.JPG 1200w" sizes="(max-width: 300px) 100vw, 300px" />
+  
+  <p id="caption-attachment-294" class="wp-caption-text">
+    Two days'' worth.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_295" style="width: 310px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-295" data-attachment-id="295" data-permalink="/?attachment_id=295" data-orig-file="/2009/10/IMG_1861.JPG" data-orig-size="1200,1600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1249079057&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Mongolian BBQ is proof that God loves us. Pictured- 1.5 lbs. of steak, chicken, sausage, pork, and other stuff." data-image-description="" data-medium-file="/2009/10/IMG_1861-300x400.jpg" data-large-file="/2009/10/IMG_1861-768x1024.jpg" class="size-medium wp-image-295" src="/2009/10/IMG_1861-300x400.jpg" alt="Mongolian BBQ is proof that God loves us. Pictured- 1.5 lbs. of steak, chicken, sausage, pork, and other stuff." width="300" height="400" srcset="/2009/10/IMG_1861-300x400.jpg 300w, /2009/10/IMG_1861-768x1024.jpg 768w, /2009/10/IMG_1861.JPG 1200w" sizes="(max-width: 300px) 100vw, 300px" />
+  
+  <p id="caption-attachment-295" class="wp-caption-text">
+    Mongolian BBQ is proof that God loves us. Pictured- 1.5 lbs. of steak, chicken, sausage, pork, and other stuff.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_296" style="width: 410px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-296" data-attachment-id="296" data-permalink="/?attachment_id=296" data-orig-file="/2009/10/IMG_1859.JPG" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1248824221&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="K.I.S.S." data-image-description="" data-medium-file="/2009/10/IMG_1859-400x300.jpg" data-large-file="/2009/10/IMG_1859-1024x768.jpg" class="size-medium wp-image-296" src="/2009/10/IMG_1859-400x300.jpg" alt="K.I.S.S." width="400" height="300" srcset="/2009/10/IMG_1859-400x300.jpg 400w, /2009/10/IMG_1859-1024x768.jpg 1024w, /2009/10/IMG_1859.JPG 1600w" sizes="(max-width: 400px) 100vw, 400px" />
+  
+  <p id="caption-attachment-296" class="wp-caption-text">
+    K.I.S.S.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_297" style="width: 410px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-297" data-attachment-id="297" data-permalink="/?attachment_id=297" data-orig-file="/2009/10/IMG_1857.JPG" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1248790303&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Breakfast foods are excellent for getting 70sBig." data-image-description="" data-medium-file="/2009/10/IMG_1857-400x300.jpg" data-large-file="/2009/10/IMG_1857-1024x768.jpg" class="size-medium wp-image-297" src="/2009/10/IMG_1857-400x300.jpg" alt="Breakfast foods are excellent for getting 70sBig." width="400" height="300" srcset="/2009/10/IMG_1857-400x300.jpg 400w, /2009/10/IMG_1857-1024x768.jpg 1024w, /2009/10/IMG_1857.JPG 1600w" sizes="(max-width: 400px) 100vw, 400px" />
+  
+  <p id="caption-attachment-297" class="wp-caption-text">
+    Breakfast foods are excellent for getting 70’s Big.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_298" style="width: 410px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-298" data-attachment-id="298" data-permalink="/?attachment_id=298" data-orig-file="/2009/10/IMG_1803.JPG" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1247842534&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="8 eggs. 1/4 lb. bacon. 1/4 lb. brisket. Pico, cheese, and salsa." data-image-description="" data-medium-file="/2009/10/IMG_1803-400x300.jpg" data-large-file="/2009/10/IMG_1803-1024x768.jpg" class="size-medium wp-image-298" src="/2009/10/IMG_1803-400x300.jpg" alt="8 eggs. 1/4 lb. bacon. 1/4 lb. brisket. Pico, cheese, and salsa." width="400" height="300" srcset="/2009/10/IMG_1803-400x300.jpg 400w, /2009/10/IMG_1803-1024x768.jpg 1024w, /2009/10/IMG_1803.JPG 1600w" sizes="(max-width: 400px) 100vw, 400px" />
+  
+  <p id="caption-attachment-298" class="wp-caption-text">
+    8 eggs. 1/4 lb. bacon. 1/4 lb. brisket. Pico, cheese, and salsa.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_299" style="width: 410px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-299" data-attachment-id="299" data-permalink="/?attachment_id=299" data-orig-file="/2009/10/IMG_0494.JPG" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1239056254&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="70sBig meals can still be presentable for mixed company. Pictured: 3/4 grilled chicken, apple wedges, blackberries, and salad doused in feta cheese and EVOO, all covered with a raspberry glaze." data-image-description="" data-medium-file="/2009/10/IMG_0494-400x300.jpg" data-large-file="/2009/10/IMG_0494-1024x768.jpg" class="size-medium wp-image-299" src="/2009/10/IMG_0494-400x300.jpg" alt="70’s Big meals can still be presentable for mixed company. Pictured: 3/4 grilled chicken, apple wedges, blackberries, and salad doused in feta cheese and EVOO, all covered with a raspberry glaze." width="400" height="300" srcset="/2009/10/IMG_0494-400x300.jpg 400w, /2009/10/IMG_0494-1024x768.jpg 1024w, /2009/10/IMG_0494.JPG 1600w" sizes="(max-width: 400px) 100vw, 400px" />
+  
+  <p id="caption-attachment-299" class="wp-caption-text">
+    70’s Big meals can still be presentable for mixed company. Pictured: 3/4 grilled chicken, apple wedges, blackberries, and salad doused in feta cheese and EVOO, all covered with a raspberry glaze.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_300" style="width: 410px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-300" data-attachment-id="300" data-permalink="/?attachment_id=300" data-orig-file="/2009/10/IMG_0486.JPG" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1238892647&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Back to the basics." data-image-description="" data-medium-file="/2009/10/IMG_0486-400x300.jpg" data-large-file="/2009/10/IMG_0486-1024x768.jpg" class="size-medium wp-image-300" src="/2009/10/IMG_0486-400x300.jpg" alt="Back to the basics." width="400" height="300" srcset="/2009/10/IMG_0486-400x300.jpg 400w, /2009/10/IMG_0486-1024x768.jpg 1024w, /2009/10/IMG_0486.JPG 1600w" sizes="(max-width: 400px) 100vw, 400px" />
+  
+  <p id="caption-attachment-300" class="wp-caption-text">
+    Back to the basics.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_301" style="width: 410px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-301" data-attachment-id="301" data-permalink="/?attachment_id=301" data-orig-file="/2009/10/IMG_0297.JPG" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1220230154&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Meat sides are a good compliment to meat entrees. So is beer." data-image-description="" data-medium-file="/2009/10/IMG_0297-400x300.jpg" data-large-file="/2009/10/IMG_0297-1024x768.jpg" class="size-medium wp-image-301" src="/2009/10/IMG_0297-400x300.jpg" alt="Meat sides are a good compliment to meat entrees. So is beer." width="400" height="300" srcset="/2009/10/IMG_0297-400x300.jpg 400w, /2009/10/IMG_0297-1024x768.jpg 1024w, /2009/10/IMG_0297.JPG 1600w" sizes="(max-width: 400px) 100vw, 400px" />
+  
+  <p id="caption-attachment-301" class="wp-caption-text">
+    Meat sides are a good compliment to meat entrees. So is beer.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_302" style="width: 410px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-302" data-attachment-id="302" data-permalink="/?attachment_id=302" data-orig-file="/2009/10/IMG_0381.JPG" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1236361722&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="The Hill Special: 1 lb. of brisket, ham, sausage." data-image-description="" data-medium-file="/2009/10/IMG_0381-400x300.jpg" data-large-file="/2009/10/IMG_0381-1024x768.jpg" class="size-medium wp-image-302" src="/2009/10/IMG_0381-400x300.jpg" alt="The Hill Special: 1 lb. of brisket, ham, sausage." width="400" height="300" srcset="/2009/10/IMG_0381-400x300.jpg 400w, /2009/10/IMG_0381-1024x768.jpg 1024w, /2009/10/IMG_0381.JPG 1600w" sizes="(max-width: 400px) 100vw, 400px" />
+  
+  <p id="caption-attachment-302" class="wp-caption-text">
+    The Hill Special: 1 lb. of brisket, ham, sausage.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_303" style="width: 410px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-303" data-attachment-id="303" data-permalink="/?attachment_id=303" data-orig-file="/2009/10/IMG_0403.JPG" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1236883326&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="1-lb. hamburgers never get hold." data-image-description="" data-medium-file="/2009/10/IMG_0403-400x300.jpg" data-large-file="/2009/10/IMG_0403-1024x768.jpg" class="size-medium wp-image-303" src="/2009/10/IMG_0403-400x300.jpg" alt="1-lb. hamburgers never get hold." width="400" height="300" srcset="/2009/10/IMG_0403-400x300.jpg 400w, /2009/10/IMG_0403-1024x768.jpg 1024w, /2009/10/IMG_0403.JPG 1600w" sizes="(max-width: 400px) 100vw, 400px" />
+  
+  <p id="caption-attachment-303" class="wp-caption-text">
+    1-lb. hamburgers never get old.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_304" style="width: 410px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-304" data-attachment-id="304" data-permalink="/?attachment_id=304" data-orig-file="/2009/10/IMG_0351.JPG" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1235241506&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Rest days=cooking days." data-image-description="" data-medium-file="/2009/10/IMG_0351-400x300.jpg" data-large-file="/2009/10/IMG_0351-1024x768.jpg" class="size-medium wp-image-304" src="/2009/10/IMG_0351-400x300.jpg" alt="Rest days=cooking days." width="400" height="300" srcset="/2009/10/IMG_0351-400x300.jpg 400w, /2009/10/IMG_0351-1024x768.jpg 1024w, /2009/10/IMG_0351.JPG 1600w" sizes="(max-width: 400px) 100vw, 400px" />
+  
+  <p id="caption-attachment-304" class="wp-caption-text">
+    Rest days=cooking days.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_305" style="width: 310px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-305" data-attachment-id="305" data-permalink="/?attachment_id=305" data-orig-file="/2009/10/IMG_0391.JPG" data-orig-size="1200,1600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1236517389&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Even young girls appreciate 70sBig. She can lift it AND eat it." data-image-description="" data-medium-file="/2009/10/IMG_0391-300x400.jpg" data-large-file="/2009/10/IMG_0391-768x1024.jpg" class="size-medium wp-image-305" src="/2009/10/IMG_0391-300x400.jpg" alt="Even young girls appreciate 70’s Big. She can lift it AND eat it." width="300" height="400" srcset="/2009/10/IMG_0391-300x400.jpg 300w, /2009/10/IMG_0391-768x1024.jpg 768w, /2009/10/IMG_0391.JPG 1200w" sizes="(max-width: 300px) 100vw, 300px" />
+  
+  <p id="caption-attachment-305" class="wp-caption-text">
+    Even the young look forward to 70’s Big.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_306" style="width: 410px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-306" data-attachment-id="306" data-permalink="/?attachment_id=306" data-orig-file="/2009/10/IMG_0355.JPG" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1235254220&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="A meat feast should be properly presented and honored before being consumed." data-image-description="" data-medium-file="/2009/10/IMG_0355-400x300.jpg" data-large-file="/2009/10/IMG_0355-1024x768.jpg" class="size-medium wp-image-306" src="/2009/10/IMG_0355-400x300.jpg" alt="A meat feast should be properly presented and honored before being consumed." width="400" height="300" srcset="/2009/10/IMG_0355-400x300.jpg 400w, /2009/10/IMG_0355-1024x768.jpg 1024w, /2009/10/IMG_0355.JPG 1600w" sizes="(max-width: 400px) 100vw, 400px" />
+  
+  <p id="caption-attachment-306" class="wp-caption-text">
+    A meat feast should be properly presented and honored before being consumed.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_307" style="width: 410px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-307" data-attachment-id="307" data-permalink="/?attachment_id=307" data-orig-file="/2009/10/IMG_0914.JPG" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1227138246&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Intermittent carb feeds are sometimes appropriate for the ketogenic diet crowd." data-image-description="" data-medium-file="/2009/10/IMG_0914-400x300.jpg" data-large-file="/2009/10/IMG_0914-1024x768.jpg" class="size-medium wp-image-307" src="/2009/10/IMG_0914-400x300.jpg" alt="Intermittent carb feeds are sometimes appropriate for the ketogenic diet crowd." width="400" height="300" srcset="/2009/10/IMG_0914-400x300.jpg 400w, /2009/10/IMG_0914-1024x768.jpg 1024w, /2009/10/IMG_0914.JPG 1600w" sizes="(max-width: 400px) 100vw, 400px" />
+  
+  <p id="caption-attachment-307" class="wp-caption-text">
+    Intermittent carb feeds are sometimes appropriate for the ketogenic diet crowd.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_308" style="width: 310px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-308" data-attachment-id="308" data-permalink="/?attachment_id=308" data-orig-file="/2009/10/IMG_0079.JPG" data-orig-size="1200,1600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1229462796&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Rip grabbed me in a bar in 1996 and expressed displeasure at my mug of Bud Light. He said &#8220;it&#8221;s not beer if you can see right through it.&#8221; He bought me a more suitable replacement." data-image-description="" data-medium-file="/2009/10/IMG_0079-300x400.jpg" data-large-file="/2009/10/IMG_0079-768x1024.jpg" class="size-medium wp-image-308" src="/2009/10/IMG_0079-300x400.jpg" alt="Rip grabbed me in a bar in 1996 and expressed displeasure at my mug of Bud Light. He said &quot;it’s not beer if you can see right through it.&quot; He bought me a more suitable replacement." width="300" height="400" srcset="/2009/10/IMG_0079-300x400.jpg 300w, /2009/10/IMG_0079-768x1024.jpg 768w, /2009/10/IMG_0079.JPG 1200w" sizes="(max-width: 300px) 100vw, 300px" />
+  
+  <p id="caption-attachment-308" class="wp-caption-text">
+    Rip grabbed me in a bar in 1996 and expressed displeasure at my mug of Bud Light. He said "it’s not beer if you can see right through it." He bought me a more suitable replacement.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_309" style="width: 410px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-309" data-attachment-id="309" data-permalink="/?attachment_id=309" data-orig-file="/2009/10/IMG_0991.JPG" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1228609739&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="My favorite 70sBig dessert. Fudge brownie, chocolate chip cookie dough ice cream, strawberries, 1/2 bottle of Magic Shell. I DARE you not to grow." data-image-description="" data-medium-file="/2009/10/IMG_0991-400x300.jpg" data-large-file="/2009/10/IMG_0991-1024x768.jpg" class="size-medium wp-image-309" src="/2009/10/IMG_0991-400x300.jpg" alt="My favorite 70sBig dessert. Fudge brownie, chocolate chip cookie dough ice cream, strawberries, 1/2 bottle of Magic Shell. I DARE you not to grow." width="400" height="300" srcset="/2009/10/IMG_0991-400x300.jpg 400w, /2009/10/IMG_0991-1024x768.jpg 1024w, /2009/10/IMG_0991.JPG 1600w" sizes="(max-width: 400px) 100vw, 400px" />
+  
+  <p id="caption-attachment-309" class="wp-caption-text">
+    My favorite 70’s Big dessert. Fudge brownie, chocolate chip cookie dough ice cream, strawberries, 1/2 bottle of Magic Shell. I DARE you not to grow.
+  </p>
+</div>
+
+
+ [1]: http://images.dawgsports.com/images/admin/Hans_and_Franz.jpg

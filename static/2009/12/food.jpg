@@ -1,0 +1,135 @@
+
+<script><!--
+var gmail_error=7;
+var gmail_show_error=false;
+
+--></script>
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+
+<title>Server Error</title>
+<style><!--
+body,td,div,.p,a,font,span {
+font-family: arial,sans-serif;
+}
+
+.tl {
+	background-image: url(/mail/help/images/corner_tl_sharp.gif);
+	background-position:top left;
+	background-repeat:no-repeat;
+}
+
+.tr {
+	background-image: url(/mail/help/images/corner_tr_sharp.gif);
+	background-position:top right;
+	background-repeat:no-repeat;
+}
+
+.bl {
+	background-image: url(/mail/help/images/corner_bl_sharp.gif);
+	background-position:bottom left;
+	background-repeat:no-repeat;
+}
+
+.br {
+	background-image: url(/mail/help/images/corner_br_sharp.gif);
+	background-position:bottom right;
+	background-repeat:no-repeat;
+}
+
+.bubble {
+	background-color:#C3D9FF;
+}
+.i { margin-left: 1em; margin-right: 1em; }
+--></style>
+</head>
+<body bgcolor="#ffffff" topmargin=2>
+    <table width=95% border=0 align="center" cellpadding=0 cellspacing=0>
+      <tr valign="top">
+        <td width="1%"> <a target=_top href="http://mail.google.com"><img src="/mail/help/images/logo.gif" border=0 width="143" height="59" alt="Gmail by Google" align="left" vspace="10"></a> </td>
+        <td width="99%" bgcolor="#ffffff" valign="top">
+          <table width="100%" cellpadding="1">
+            <tr valign="bottom">
+              <td><div align="right">&nbsp;</div></td>
+            </tr>
+            <tr>
+              <td nowrap>
+                <table width="100%" align=center cellpadding=0 cellspacing=0 bgcolor="#C3D9FF" style="margin-bottom:5px;">
+                  <tr>
+                    <td class="bubble tl" width="4"></td>
+
+                <td class="bubble" rowspan=2 style="font-family:arial;text-align:left;font-weight:bold;padding:3px 0px;"><b>Temporary
+                  Error (404)</b></td>
+                    <td class="bubble tr" width="4"></td>
+                  </tr>
+                  <tr>
+                    <td class="bubble bl" width="4"></td>
+                    <td class="bubble br" width="4"></td>
+                  </tr>
+              </table></td>
+            </tr>
+          </table>
+    </table>
+    <br>
+
+<table width="94%" border=0 align="center" cellpadding=5 cellspacing=0>
+  <tr valign="top">
+    <td>
+        <p><font size="-1">We&#8217;re sorry, but your Gmail account is temporarily unavailable.  We apologize for the inconvenience and suggest trying again in a few minutes.<br><br>
+If the issue persists, please visit the <a href="http://mail.google.com/support/bin/answer.py?answer=116775&hl=en&status=404&error=7">Gmail Help Center &raquo;</a></font></p>
+
+        <p><font size="-1"><a target=_top href="http://mail.google.com/">Try Again</a> <a target=_top href="http://mail.google.com/?logout">Sign Out</a></font></p>
+        </td>
+  </tr>
+</table>
+<br>
+
+<script><!--
+  function showTechnicalInfo(b) {
+    showElt('show_tech_info_link', !b);
+    showElt('hide_tech_info_link', b);
+    showElt('tech_info', b);
+  }
+  function showElt(id, b) {
+    var elt = document.getElementById(id);
+    elt.style.display = b ? "" : "none";
+  }
+
+--></script>
+
+<table width="94%" border=0 align="center" cellpadding=5 cellspacing=0>
+  <tr valign="top">
+    <td>
+      <div id="show_tech_info_link">
+        <font size="-1"><a href="javascript:showTechnicalInfo(1)">Show Detailed Technical Info</a></font>
+      </div>
+      <div id="hide_tech_info_link" style="display:none">
+        <font size="-1"><a href="javascript:showTechnicalInfo(0)">Hide Detailed Technical Info</a></font>
+      </div>
+      <div id="tech_info" style="display:none">
+        <font size="-1">
+          Numeric Code: 7<br>
+          
+        </font> 
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+<br>
+    <table width="95%" align=center cellpadding=3 cellspacing=0 bgcolor="#C3D9FF" style="margin-bottom:5px;">
+      <tr>
+        <td class="bubble tl" width="4"></td>
+        <td class="bubble" rowspan=2 style="font-family:arial;text-align:center;"><font size="-1" color="#666666">&copy;2008 Google - <a target=_top href="http://mail.google.com">Gmail Home</a> - <a target=_top href="help/privacy.html">Privacy Policy</a> - <a target=_top href="http://mail.google.com/mail/help/program_policies.html">Program Policies</a> - <a target=_top href="http://mail.google.com/mail/help/terms_of_use.html">Terms of Use </a><font size="-1" color="#666666"> - <a target=_top href="http://www.google.com">Google&nbsp;Home</a></font></font></td>
+        <td class="bubble tr" width="4"></td>
+      </tr>
+      <tr>
+        <td class="bubble bl" width="4"></td>
+        <td class="bubble br" width="4"></td>
+      </tr>
+    </table>
+	</body>
+</html>
+

@@ -1,0 +1,317 @@
+---
+title: Beard Contest
+author: Justin Lascek
+type: post
+date: 2010-12-06T06:00:29+00:00
+url: /blog/2010/12/beard-contest/
+categories:
+  - Content
+
+---
+Not everyone can grow a beard. First, someone may have missed out on the genetic trait of beard growing. Second, someone may have a job or wife that prevents them from growing it out. Third, someone may lack the testicular fortitude to grow one. These are the men that ignored all three obstacles, and got burly during Novemburly.
+  
+
+  
+
+
+<div id="attachment_3304" style="width: 410px" class="wp-caption aligncenter">
+  <a href="/2010/12/DSCN0098.jpg"><img aria-describedby="caption-attachment-3304" data-attachment-id="3304" data-permalink="/blog/2010/12/beard-contest/dscn0098/" data-orig-file="/2010/12/DSCN0098.jpg" data-orig-size="800,600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;COOLPIX S8100&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1259953958&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;5.4&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.5&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="DSCN0098" data-image-description="" data-medium-file="/2010/12/DSCN0098-400x300.jpg" data-large-file="/2010/12/DSCN0098.jpg" src="/2010/12/DSCN0098-400x300.jpg" alt="" title="DSCN0098" width="400" height="300" class="size-medium wp-image-3304" srcset="/2010/12/DSCN0098-400x300.jpg 400w, /2010/12/DSCN0098.jpg 800w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+  
+  <p id="caption-attachment-3304" class="wp-caption-text">
+    #1 - Scott from Chicago, 6'4, 220
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_3305" style="width: 365px" class="wp-caption aligncenter">
+  <a href="/2010/12/SAM_0679.jpg"><img aria-describedby="caption-attachment-3305" data-attachment-id="3305" data-permalink="/blog/2010/12/beard-contest/sam_0679/" data-orig-file="/2010/12/SAM_0679.jpg" data-orig-size="710,800" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="SAM_0679" data-image-description="" data-medium-file="/2010/12/SAM_0679-355x400.jpg" data-large-file="/2010/12/SAM_0679.jpg" src="/2010/12/SAM_0679-355x400.jpg" alt="" title="SAM_0679" width="355" height="400" class="size-medium wp-image-3305" srcset="/2010/12/SAM_0679-355x400.jpg 355w, /2010/12/SAM_0679.jpg 710w" sizes="(max-width: 355px) 100vw, 355px" /></a>
+  
+  <p id="caption-attachment-3305" class="wp-caption-text">
+    #2 - Brian
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_3306" style="width: 410px" class="wp-caption aligncenter">
+  <a href="/2010/12/milkbeard.jpeg"><img aria-describedby="caption-attachment-3306" data-attachment-id="3306" data-permalink="/blog/2010/12/beard-contest/milkbeard/" data-orig-file="/2010/12/milkbeard.jpeg" data-orig-size="480,384" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="milkbeard" data-image-description="" data-medium-file="/2010/12/milkbeard-400x320.jpg" data-large-file="/2010/12/milkbeard.jpeg" src="/2010/12/milkbeard-400x320.jpg" alt="" title="milkbeard" width="400" height="320" class="size-medium wp-image-3306" srcset="/2010/12/milkbeard-400x320.jpg 400w, /2010/12/milkbeard.jpeg 480w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+  
+  <p id="caption-attachment-3306" class="wp-caption-text">
+    #3A - Zac
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_3307" style="width: 410px" class="wp-caption aligncenter">
+  <a href="/2010/12/70sbig-guy.jpeg"><img aria-describedby="caption-attachment-3307" data-attachment-id="3307" data-permalink="/blog/2010/12/beard-contest/70sbig-guy/" data-orig-file="/2010/12/70sbig-guy.jpeg" data-orig-size="480,384" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="70sbig guy" data-image-description="" data-medium-file="/2010/12/70sbig-guy-400x320.jpg" data-large-file="/2010/12/70sbig-guy.jpeg" src="/2010/12/70sbig-guy-400x320.jpg" alt="" title="70sbig guy" width="400" height="320" class="size-medium wp-image-3307" srcset="/2010/12/70sbig-guy-400x320.jpg 400w, /2010/12/70sbig-guy.jpeg 480w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+  
+  <p id="caption-attachment-3307" class="wp-caption-text">
+    #3B - Zac again, I thought both were kinda funny
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_3308" style="width: 193px" class="wp-caption aligncenter">
+  <a href="/2010/12/113010-Cousin95Eddie95Trampas.jpg"><img aria-describedby="caption-attachment-3308" data-attachment-id="3308" data-permalink="/blog/2010/12/beard-contest/113010-cousin95eddie95trampas/" data-orig-file="/2010/12/113010-Cousin95Eddie95Trampas.jpg" data-orig-size="855,1867" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="113010&#8211;Cousin95Eddie95Trampas" data-image-description="" data-medium-file="/2010/12/113010-Cousin95Eddie95Trampas-183x400.jpg" data-large-file="/2010/12/113010-Cousin95Eddie95Trampas-468x1024.jpg" src="/2010/12/113010-Cousin95Eddie95Trampas-183x400.jpg" alt="" title="113010--Cousin95Eddie95Trampas" width="183" height="400" class="size-medium wp-image-3308" srcset="/2010/12/113010-Cousin95Eddie95Trampas-183x400.jpg 183w, /2010/12/113010-Cousin95Eddie95Trampas-468x1024.jpg 468w, /2010/12/113010-Cousin95Eddie95Trampas.jpg 855w" sizes="(max-width: 183px) 100vw, 183px" /></a>
+  
+  <p id="caption-attachment-3308" class="wp-caption-text">
+    #4 - Trampas (see info below)
+  </p>
+</div>
+
+
+  
+Trampas&#8217; e-mail included the following stats/message:
+
+> Ht: 6&#8217;6&#8243;
+  
+> Wt: 285
+  
+> Linear Beard Progression:
+  
+> Time: 29 days
+  
+> Length: 1.25 inches
+  
+> Animals housed: 2 deer, 1 rabbit
+  
+> 
+  
+> Merry Christmas! Shitter was full!
+
+<div id="attachment_3309" style="width: 410px" class="wp-caption aligncenter">
+  <a href="/2010/12/IMG00171.jpg"><img aria-describedby="caption-attachment-3309" data-attachment-id="3309" data-permalink="/blog/2010/12/beard-contest/img00171/" data-orig-file="/2010/12/IMG00171.jpg" data-orig-size="640,480" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;BlackBerry 8330&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="IMG00171" data-image-description="" data-medium-file="/2010/12/IMG00171-400x300.jpg" data-large-file="/2010/12/IMG00171.jpg" src="/2010/12/IMG00171-400x300.jpg" alt="" title="IMG00171" width="400" height="300" class="size-medium wp-image-3309" srcset="/2010/12/IMG00171-400x300.jpg 400w, /2010/12/IMG00171.jpg 640w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+  
+  <p id="caption-attachment-3309" class="wp-caption-text">
+    #5 - Milton, 6'1, 235
+  </p>
+</div>
+
+
+  
+
+  
+This is all I got in my direct e-mail. If you have a gnarly beard, send it in today and I&#8217;ll add it throughout the day. Happy lifting.
+  
+
+  
+
+
+<div id="attachment_3316" style="width: 410px" class="wp-caption aligncenter">
+  <a href="/2010/12/Jake-Mathis-Novemburly.jpg"><img aria-describedby="caption-attachment-3316" data-attachment-id="3316" data-permalink="/blog/2010/12/beard-contest/jake-mathis-novemburly/" data-orig-file="/2010/12/Jake-Mathis-Novemburly.jpg" data-orig-size="640,480" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Jake Mathis Novemburly" data-image-description="" data-medium-file="/2010/12/Jake-Mathis-Novemburly-400x300.jpg" data-large-file="/2010/12/Jake-Mathis-Novemburly.jpg" src="/2010/12/Jake-Mathis-Novemburly-400x300.jpg" alt="" title="Jake Mathis Novemburly" width="400" height="300" class="size-medium wp-image-3316" srcset="/2010/12/Jake-Mathis-Novemburly-400x300.jpg 400w, /2010/12/Jake-Mathis-Novemburly.jpg 640w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+  
+  <p id="caption-attachment-3316" class="wp-caption-text">
+    #6 - Mathis, 5'10, 220
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_3317" style="width: 310px" class="wp-caption aligncenter">
+  <a href="/2010/12/photo.jpg"><img aria-describedby="caption-attachment-3317" data-attachment-id="3317" data-permalink="/blog/2010/12/beard-contest/photo-2/" data-orig-file="/2010/12/photo.jpg" data-orig-size="480,640" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPod touch&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1291623184&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.85&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.033333333333333&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="photo" data-image-description="" data-medium-file="/2010/12/photo-300x400.jpg" data-large-file="/2010/12/photo.jpg" src="/2010/12/photo-300x400.jpg" alt="" title="photo" width="300" height="400" class="size-medium wp-image-3317" srcset="/2010/12/photo-300x400.jpg 300w, /2010/12/photo.jpg 480w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  
+  <p id="caption-attachment-3317" class="wp-caption-text">
+    #7 - Nick
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_3318" style="width: 357px" class="wp-caption aligncenter">
+  <a href="/2010/12/image001.jpg"><img aria-describedby="caption-attachment-3318" data-attachment-id="3318" data-permalink="/blog/2010/12/beard-contest/image001/" data-orig-file="/2010/12/image001.jpg" data-orig-size="347,398" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="image001" data-image-description="" data-medium-file="/2010/12/image001.jpg" data-large-file="/2010/12/image001.jpg" src="/2010/12/image001.jpg" alt="" title="image001" width="347" height="398" class="size-full wp-image-3318" /></a>
+  
+  <p id="caption-attachment-3318" class="wp-caption-text">
+    #8 - Paul, recent strongman event (write up coming)
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_3319" style="width: 330px" class="wp-caption aligncenter">
+  <a href="/2010/12/beard.jpg"><img aria-describedby="caption-attachment-3319" data-attachment-id="3319" data-permalink="/blog/2010/12/beard-contest/beard/" data-orig-file="/2010/12/beard.jpg" data-orig-size="320,240" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="beard" data-image-description="" data-medium-file="/2010/12/beard.jpg" data-large-file="/2010/12/beard.jpg" src="/2010/12/beard.jpg" alt="" title="beard" width="320" height="240" class="size-full wp-image-3319" /></a>
+  
+  <p id="caption-attachment-3319" class="wp-caption-text">
+    #9 - Brian
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_3320" style="width: 410px" class="wp-caption aligncenter">
+  <a href="/2010/12/Photo-on-2010-12-06-at-22.19.jpg"><img aria-describedby="caption-attachment-3320" data-attachment-id="3320" data-permalink="/blog/2010/12/beard-contest/photo-on-2010-12-06-at-22-19/" data-orig-file="/2010/12/Photo-on-2010-12-06-at-22.19.jpg" data-orig-size="640,480" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Photo on 2010-12-06 at 22.19" data-image-description="" data-medium-file="/2010/12/Photo-on-2010-12-06-at-22.19-400x300.jpg" data-large-file="/2010/12/Photo-on-2010-12-06-at-22.19.jpg" src="/2010/12/Photo-on-2010-12-06-at-22.19-400x300.jpg" alt="" title="Photo on 2010-12-06 at 22.19" width="400" height="300" class="size-medium wp-image-3320" srcset="/2010/12/Photo-on-2010-12-06-at-22.19-400x300.jpg 400w, /2010/12/Photo-on-2010-12-06-at-22.19.jpg 640w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+  
+  <p id="caption-attachment-3320" class="wp-caption-text">
+    #10 - Jake, beard project while in Pakistan
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_3321" style="width: 310px" class="wp-caption aligncenter">
+  <a href="/2010/12/jongabrus-beard70sbig.jpeg"><img aria-describedby="caption-attachment-3321" data-attachment-id="3321" data-permalink="/blog/2010/12/beard-contest/jongabrus-beard70sbig/" data-orig-file="/2010/12/jongabrus-beard70sbig.jpeg" data-orig-size="540,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="jongabrus-beard70sbig" data-image-description="" data-medium-file="/2010/12/jongabrus-beard70sbig-300x400.jpg" data-large-file="/2010/12/jongabrus-beard70sbig.jpeg" src="/2010/12/jongabrus-beard70sbig-300x400.jpg" alt="" title="jongabrus-beard70sbig" width="300" height="400" class="size-medium wp-image-3321" srcset="/2010/12/jongabrus-beard70sbig-300x400.jpg 300w, /2010/12/jongabrus-beard70sbig.jpeg 540w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  
+  <p id="caption-attachment-3321" class="wp-caption-text">
+    #11 - Gabrus, rugby player and comedian (see link below)
+  </p>
+</div>
+
+
+  
+[Gabrus, the comedian][1] 
+  
+
+  
+
+
+<div id="attachment_3322" style="width: 410px" class="wp-caption aligncenter">
+  <a href="/2010/12/photo1.jpg"><img aria-describedby="caption-attachment-3322" data-attachment-id="3322" data-permalink="/blog/2010/12/beard-contest/photo1/" data-orig-file="/2010/12/photo1.jpg" data-orig-size="720,538" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="photo1" data-image-description="" data-medium-file="/2010/12/photo1-400x298.jpg" data-large-file="/2010/12/photo1.jpg" src="/2010/12/photo1-400x298.jpg" alt="" title="photo1" width="400" height="298" class="size-medium wp-image-3322" srcset="/2010/12/photo1-400x298.jpg 400w, /2010/12/photo1.jpg 720w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+  
+  <p id="caption-attachment-3322" class="wp-caption-text">
+    #12A - my friend Robert
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_3323" style="width: 410px" class="wp-caption aligncenter">
+  <a href="/2010/12/photo2.jpg"><img aria-describedby="caption-attachment-3323" data-attachment-id="3323" data-permalink="/blog/2010/12/beard-contest/photo2/" data-orig-file="/2010/12/photo2.jpg" data-orig-size="640,480" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="photo2" data-image-description="" data-medium-file="/2010/12/photo2-400x300.jpg" data-large-file="/2010/12/photo2.jpg" src="/2010/12/photo2-400x300.jpg" alt="" title="photo2" width="400" height="300" class="size-medium wp-image-3323" srcset="/2010/12/photo2-400x300.jpg 400w, /2010/12/photo2.jpg 640w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+  
+  <p id="caption-attachment-3323" class="wp-caption-text">
+    #12B - I liked this one of Robert too
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_3324" style="width: 310px" class="wp-caption aligncenter">
+  <a href="/2010/12/PTF.jpg"><img aria-describedby="caption-attachment-3324" data-attachment-id="3324" data-permalink="/blog/2010/12/beard-contest/ptf/" data-orig-file="/2010/12/PTF.jpg" data-orig-size="453,604" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="PTF" data-image-description="" data-medium-file="/2010/12/PTF-300x400.jpg" data-large-file="/2010/12/PTF.jpg" src="/2010/12/PTF-300x400.jpg" alt="" title="PTF" width="300" height="400" class="size-medium wp-image-3324" srcset="/2010/12/PTF-300x400.jpg 300w, /2010/12/PTF.jpg 453w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  
+  <p id="caption-attachment-3324" class="wp-caption-text">
+    #13 - Sean, 5'10 and 240, likes to party
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_3325" style="width: 329px" class="wp-caption aligncenter">
+  <a href="/2010/12/thewinner.jpg"><img aria-describedby="caption-attachment-3325" data-attachment-id="3325" data-permalink="/blog/2010/12/beard-contest/thewinner/" data-orig-file="/2010/12/thewinner.jpg" data-orig-size="460,576" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.6&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon PowerShot A540&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1136145871&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;5.8&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="thewinner" data-image-description="" data-medium-file="/2010/12/thewinner-319x400.jpg" data-large-file="/2010/12/thewinner.jpg" src="/2010/12/thewinner-319x400.jpg" alt="" title="thewinner" width="319" height="400" class="size-medium wp-image-3325" srcset="/2010/12/thewinner-319x400.jpg 319w, /2010/12/thewinner.jpg 460w" sizes="(max-width: 319px) 100vw, 319px" /></a>
+  
+  <p id="caption-attachment-3325" class="wp-caption-text">
+    #14 - Josh from Quebec, self-proclaimed victor of contest
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_3327" style="width: 210px" class="wp-caption aligncenter">
+  <a href="/2010/12/harrison.jpg"><img aria-describedby="caption-attachment-3327" data-attachment-id="3327" data-permalink="/blog/2010/12/beard-contest/harrison-2/" data-orig-file="/2010/12/harrison.jpg" data-orig-size="200,336" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="harrison" data-image-description="" data-medium-file="/2010/12/harrison.jpg" data-large-file="/2010/12/harrison.jpg" src="/2010/12/harrison.jpg" alt="" title="harrison" width="200" height="336" class="size-full wp-image-3327" /></a>
+  
+  <p id="caption-attachment-3327" class="wp-caption-text">
+    #15 - Harrison makes his way into another pic contest
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_3328" style="width: 308px" class="wp-caption aligncenter">
+  <a href="/2010/12/IMG_20101206_170033.jpg"><img aria-describedby="caption-attachment-3328" data-attachment-id="3328" data-permalink="/blog/2010/12/beard-contest/img_20101206_170033/" data-orig-file="/2010/12/IMG_20101206_170033.jpg" data-orig-size="1936,2592" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Droid&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1291654829&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4&quot;,&quot;iso&quot;:&quot;117&quot;,&quot;shutter_speed&quot;:&quot;0.066667&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="IMG_20101206_170033" data-image-description="" data-medium-file="/2010/12/IMG_20101206_170033-298x400.jpg" data-large-file="/2010/12/IMG_20101206_170033-764x1024.jpg" src="/2010/12/IMG_20101206_170033-298x400.jpg" alt="" title="IMG_20101206_170033" width="298" height="400" class="size-medium wp-image-3328" srcset="/2010/12/IMG_20101206_170033-298x400.jpg 298w, /2010/12/IMG_20101206_170033-764x1024.jpg 764w" sizes="(max-width: 298px) 100vw, 298px" /></a>
+  
+  <p id="caption-attachment-3328" class="wp-caption-text">
+    #16 - Craig pulling the beard off at work
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_3329" style="width: 309px" class="wp-caption aligncenter">
+  <a href="/2010/12/70s-novemburly-beard.jpg"><img aria-describedby="caption-attachment-3329" data-attachment-id="3329" data-permalink="/blog/2010/12/beard-contest/70s-novemburly-beard/" data-orig-file="/2010/12/70s-novemburly-beard.jpg" data-orig-size="1520,2032" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Pre&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.25&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0.066666625976563&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="70s novemburly beard" data-image-description="" data-medium-file="/2010/12/70s-novemburly-beard-299x400.jpg" data-large-file="/2010/12/70s-novemburly-beard-765x1024.jpg" src="/2010/12/70s-novemburly-beard-299x400.jpg" alt="" title="70s novemburly beard" width="299" height="400" class="size-medium wp-image-3329" srcset="/2010/12/70s-novemburly-beard-299x400.jpg 299w, /2010/12/70s-novemburly-beard-765x1024.jpg 765w, /2010/12/70s-novemburly-beard.jpg 1520w" sizes="(max-width: 299px) 100vw, 299px" /></a>
+  
+  <p id="caption-attachment-3329" class="wp-caption-text">
+    #17 - Kris, gained 20 pounds in Nov, and squatting old 1RM for 3x5
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_3331" style="width: 410px" class="wp-caption aligncenter">
+  <a href="/2010/12/truss.jpg"><img aria-describedby="caption-attachment-3331" data-attachment-id="3331" data-permalink="/blog/2010/12/beard-contest/truss/" data-orig-file="/2010/12/truss.jpg" data-orig-size="2856,2142" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;KODAK DX7630 ZOOM DIGITAL CAMERA&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1077507092&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;8&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="truss" data-image-description="" data-medium-file="/2010/12/truss-400x300.jpg" data-large-file="/2010/12/truss-1024x768.jpg" src="/2010/12/truss-400x300.jpg" alt="" title="truss" width="400" height="300" class="size-medium wp-image-3331" srcset="/2010/12/truss-400x300.jpg 400w, /2010/12/truss-1024x768.jpg 1024w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+  
+  <p id="caption-attachment-3331" class="wp-caption-text">
+    #17 - the forgotten Matt
+  </p>
+</div>
+
+
+  
+
+  
+[poll id=&#8221;15&#8243;]
+
+ [1]: http://www.gabrus.com/

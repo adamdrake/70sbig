@@ -1,0 +1,61 @@
+---
+title: Mike Interviews Powerlifter Stephen “Screamer” Manuel
+author: IDontNeedASpot
+type: post
+date: 2014-03-20T01:58:02+00:00
+url: /blog/2014/03/mike-interviews-powerlifter-stephen-screamer-manuel/
+categories:
+  - Content
+
+---
+[<img data-attachment-id="9883" data-permalink="/blog/2014/03/mike-interviews-powerlifter-stephen-screamer-manuel/1425526_10151754872572611_268410159_n/" data-orig-file="/2014/03/1425526_10151754872572611_268410159_n.jpg" data-orig-size="456,456" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="1425526_10151754872572611_268410159_n" data-image-description="" data-medium-file="/2014/03/1425526_10151754872572611_268410159_n-200x200.jpg" data-large-file="/2014/03/1425526_10151754872572611_268410159_n-450x450.jpg" src="/2014/03/1425526_10151754872572611_268410159_n-200x200.jpg" alt="1425526_10151754872572611_268410159_n" width="200" height="200" class="aligncenter size-medium wp-image-9883" srcset="/2014/03/1425526_10151754872572611_268410159_n-200x200.jpg 200w, /2014/03/1425526_10151754872572611_268410159_n-150x150.jpg 150w, /2014/03/1425526_10151754872572611_268410159_n-450x450.jpg 450w, /2014/03/1425526_10151754872572611_268410159_n-300x300.jpg 300w, /2014/03/1425526_10151754872572611_268410159_n.jpg 456w" sizes="(max-width: 200px) 100vw, 200px" />][1]
+
+_Mike interviews Stephen Manuel, the silver medalist from the IPF Raw World Championship in 2013._
+
+Mike: Tell us about yourself. How old are you, where are you from, how long have you been powerlifting, competition history, etc.?
+
+Stephen: Hey Mike, thanks for the support. It’s always nice to know you have fans from various places and stuff so thanks for giving me another platform to communicate. I’m 25, from South Shields, England (near Newcastle in the North East of England), I’ve been Powerlifting for 8 or 9 years and started out Raw for a year, started equipped at age 18 till my final Junior year (23) and then switched back to Raw from then until present day.
+  
+I had a lot of success as an equipped lifter Nationally and a little success Internationally. I have won around 6 British Equipped Titles at Junior and Open level, finished 9th in the world as a Junior and then 4th in Europe as a Junior (I also got a gold medal for Deadlift here with a 320kg pull – that meant a lot to me because it was close to my hometown so my friends and family all got to see it).
+  
+I started Equipped lifting mainly because there was no World Championships in Raw in the IPF, but once they introduced the Classic rules I decided to switch back over as this made training for me much easier since I generally train alone and prefer to lift Raw. Since switching back to Raw lifting I have won one British title, set multiple British records and finished 2nd in the IPF World Raw Championships last year so it was a good decision to switch.
+
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='584' height='329' src='https://www.youtube.com/embed/2TSS-cKpoZo?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span>
+
+Mike: What are your best competition lifts? Any other personal bests you’d like to mention?
+
+Stephen: My best competition lifts are a 280kg squat, 190kg bench press and a 315kg deadlift – all Raw.
+
+Mike: You have a very unique approach to programming your training, especially your accessory work; please explain what your training template is.
+
+Stephen: I don’t really follow much of a template really. I plan my main lifts and try to get as much volume in as possible whilst working at sub-maximal intensities of no heavier than 90%. I’ll hit the Squat and Bench Press 4 times per week and the Deadlift 1-2 times per week mainly to keep my movement patterns solid. When it comes to my accessory work, I wouldn’t go as far to say I spontaneously decide what to do but I largely listen to my body and pick what exercise I’m going to get the best out of on that particular day. For example, if my lower body is pretty beat up after squatting rather than doing a heavy loading exercise such as a Stiff Leg Deadlift, I’ll opt for a KB Swing or a BB Hip Thruster with a light load for speed or vice versa, if I’m feeling strong I’ll load up on the assistance. I started doing this around two years ago because I found that planning every final detail in my training was causing me to fall out of love with the lifting and when that happens it’s game over. So now I plan the important stuff and have fun with the other stuff. The circuit stuff I do at the end is mainly to hit areas I won’t hit through general weights stuff and also a fun way to get my weight down instead of just running at low intensities to increase my fat oxidation.
+
+Mike: How did you develop your training philosophy?
+
+Stephen: This is a pretty tough one to answer. It kind of feels like it just happened, mainly through trial and error. The gym I work at Underground Training Station (www.theuts.co.uk – check us out) specializes in high intensity, metabolic circuit training and teaching the average person they can train like athletes and reap the benefits of being more powerful and loading their bodies up etc. I mention on a video blog I’m currently uploading on my YouTube channel (screamermanuel) that I see myself as an athlete who decided to do Powerlifting rather than a Powerlifter who Powerlifts. You look at athletes in other sports such as sprinting, weightlifting, American Football etc. and one thing that is common between those sports and the movements they produce is they are all explosive and very powerful, and they all squat and bench like absolute beasts. So I think too much emphasis is placed on the main lifts in the typical Powerlifter and we get deep into a very “Max Strength” oriented type of training and as a result a lot of max lifts are grinded out. Now people will argue it doesn’t matter whether it takes half a second, 1 second, 5 seconds to get that squat from the hole to standing but if you ask me I’d rather get that lift done as quickly as possible!
+
+Mike: Do you coach other lifters as well? Are they primarily powerlifters?
+
+Stephen: I coach people from all walks of life. I do have a few people who are just getting started out in Powerlifting and have some potential to do well. I’m currently developing a few strategies and also getting some confidence to have a go at coaching people online because I’ve had a lot of positive feedback from the videos I’m putting out there so look out for that in the future.
+
+Mike: How do you program training for other lifters? Do they focus on the squat, bench, and deadlift followed by certain accessory lifts?
+
+Stephen: It all depends on where they’re at really. I have a lot of people who are just starting out so for me, they need to focus on the actual Powerlifts less than the accessory stuff. They need to develop the muscle mass, required to lift heavy in the powerlifts and do the main lifts purely for technical purposes, developing their connective tissues to be able to cope with the forces when the load increases and getting those motor patterns down. Then once they start hitting plateaus in the main lifts I can flip that attention on its head and get them utilizing that perfected Powerlift technique under more volume, intensity, creating more stress and developing improvements from that. 
+
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='584' height='329' src='https://www.youtube.com/embed/Jblu0KEU80o?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span>
+
+Mike: In one of your videos you analyzed an individual’s deadlift, and told him to work on his hamstring and t-spine mobility, what is your philosophy about mobility? Do you spend time working on your own, or only if you feel you have a mobility issue that has to be corrected?
+
+Stephen: I think with mobility and Powerlifting you need to be as mobile as you need, no more no less. You don’t want to be so tight that when you’re loading up on bar weight your body is forcing you to come out of position but you also don’t want to be so flexible that you lose power, particularly at the bottom of the lifts. The amount of time I spend on mobility is usually directly related to the increase or decrease in training volume, if I train more I spend more time doing mobility work and will include it in any rest days as an active rest session. I’d like to say I spend a good 20-30 minutes daily doing it but I’d be lying! I always do 10-20 minutes before training and because I’ve been carrying an injury or two at the minute I have been doing 30 minutes after work but that is not commonplace for me. If an area needs more mobility work I will typically work overtime on that but my mobility is pretty good right now.
+
+Mike: I see that your current goal is to win IPF Raw Worlds. Do you have any world records you also want to break? You third attempt Deadlift at Worlds last year was a World Record attempt, right?
+
+Stephen: Yeah, I’m after that World Title for sure mate, I’ve put too much time and sacrificed too much into this to not be chasing the ultimate accolade! Last year I was only 15kg off the World Record Standard for the Squat (currently 295kg) so I hope I can achieve that but that is obviously secondary to the goal of winning the World Championships. Also, whoever wins this year is pretty much going to have to do a World Record Total because the standard of Raw lifting is only increasing since it’s largely in it’s infancy in the IPF so that would be cool to come away with two World records and a World Title!
+
+Mike: How did you get the nickname Screamer?
+
+Stephen: I get asked that a lot or rather “Why is your Facebook name Stephen Screamer Manuel” so I’ll tell you what I tell them…just watch one of my YouTube videos! Haha!
+  
+Feel free to add me on Instagram/Twitter/Youtube – all screamermanuel and any questions you may have for me will gladly be answered either with a video or a direct message.
+
+ [1]: /2014/03/1425526_10151754872572611_268410159_n.jpg

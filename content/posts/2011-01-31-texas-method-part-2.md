@@ -1,0 +1,65 @@
+---
+title: Texas Method – Part 2
+author: Justin Lascek
+type: post
+date: 2011-01-31T18:12:09+00:00
+url: /blog/2011/01/texas-method-part-2/
+categories:
+  - Content
+
+---
+_This post is part of a series on the Texas Method. Here is [Part 1.][1]_ 
+  
+Now that there is a general understanding of what the Texas Method (TM) is, what it’s used for, and why it’s useful, we will talk about how to transition different exercises into it.
+  
+
+  
+I have several themes that resonate over and over and over and over and over and over … on this site. The concepts of adaptive stress and individuality mean that in order to drive progress, an adaptive stress must be imparted on the body. However, the magnitude and method of that stress is dependent on a person’s current state of adaptation. Our society likes to group things to make them easier to comprehend; skinny, weak, skinny-fat, big, fat, and strong are ways to describe a trainee. However these distinctions aren’t descriptive enough. For instance, there may be a trainee who has just gotten into squatting and deadlifting, yet has been doing bench and other upper body exercises for years. His bench may be higher than the squat and deadlift; such a body isn’t balanced for performance.
+  
+
+  
+In the case of discrepancies in weight lifted or muscular distribution, it may be prudent to advance certain exercises to intermediate programming instead of a linear approach. For instance, if the squat progression (on a structured linear program designed to make daily gains) has stalled several times, yet the press and bench are still making progress, then the squat could be shifted into an intermediate-style program while the presses continue a linear advancement. The opposite could also hold true. In other words, beating your dick into the ground because “that’s what the program outline tells you to do” doesn’t help you get any stronger.
+  
+
+  
+Similarly, forcing yourself to find the maximum potential of your linear progression won’t be helpful in the long run. For example, I ran my (Starting Strength style) linear progression up to 465x5x3, yet every workout after 450 was purely survival. I vividly remember feeling emotionally wrecked when I finished squatting; I had to summon so much adrenaline just to get through the three sets (with at least 10 minutes of rest between sets) that I was running on empty. Forcing myself into that experience may have been spiritual, yet it wasn’t optimal for my strength development. I spent several weeks putting an unnecessary amount of stress on my structures to the point that they required recuperation as I transitioned into intermediate programming. I subjectively wouldn’t recommend this, but I also wouldn’t objectively recommend it because it blunts progress in the long-term.
+  
+
+  
+The pressing exercises won’t have the same problem because they don’t involve as much muscle mass. A trainee can exhaust their progression many times yet the recuperation time won’t be as lengthy as if the overreaching occurred with squat or deadlift. **Remember: the more muscle mass that is trained by the exercise, the more disruption that occurs**. If you abuse the amount of stress you impart on your body – relative to your current adaptation – then you will cause local, and potentially systemic, problems.
+  
+
+  
+Advancing various exercises to a TM approach isn’t difficult; the first workout is volume-based, the second is recovery-based, and the third is intensity-based. The bench and press will alternate their emphasis every week so that you bench volume and intensity in the same week (and visa versa). On bench week’s recovery day you would press; on press week’s recovery day you would do some light bench. It isn’t difficult and there are plenty of examples in the book _Practical Programming_ (as well as on the internet).
+  
+
+  
+The deadlift is a little bit trickier. I like to have novices deadlift once a week on the same day. I usually like to put it at the end of the week so that it doesn’t disrupt any other squat days and because the weekend allows an extra rest day (the Greyskull Linear Progression drops a squat day and puts the deadlift on Wednesday – this is acceptable). Novices will make progress by doing a single work set of five. Often I see people doing sets across on the deadlift. This will put more volume on the trainee making it hard to recover while using a smaller amount of weight compared to a single set of five. Don’t do sets across; for a linear progression it&#8217;s too high of a dose to get the response we want, and it will hamper other training days.
+  
+
+  
+
+
+<div id="attachment_3552" style="width: 410px" class="wp-caption aligncenter">
+  <a href="/2011/01/columbo.jpg"><img aria-describedby="caption-attachment-3552" data-attachment-id="3552" data-permalink="/blog/2011/01/texas-method-part-2/columbo/" data-orig-file="/2011/01/columbo.jpg" data-orig-size="1028,749" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="columbo" data-image-description="" data-medium-file="/2011/01/columbo-400x291.jpg" data-large-file="/2011/01/columbo-1024x746.jpg" src="/2011/01/columbo-400x291.jpg" alt="" title="columbo" width="400" height="291" class="size-medium wp-image-3552" srcset="/2011/01/columbo-400x291.jpg 400w, /2011/01/columbo-1024x746.jpg 1024w, /2011/01/columbo.jpg 1028w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+  
+  <p id="caption-attachment-3552" class="wp-caption-text">
+    Franco Columbo deadlifts
+  </p>
+</div>
+
+
+  
+
+  
+Once the single set of five starts to slow, then the trainee can shift into doing triples. This allows the trainee to continue adding weight on the bar every week while getting a moderate amount of volume. It’s important to note that moving to triples will benefit a trainee who has a decent musculature structure. The fewer reps will move away from the hypertrophy spectrum (5ish to 15 reps) and thus wouldn’t be optimal for someone with a thin back and torso. A smaller person would benefit in the long run from ratcheting the weight back and getting more cumulative deadlift training done with sets of five (there’ll be more on this topic in another post).
+  
+
+  
+If a trainee has shifted into doing triples, the timing will usually work out where they have transitioned the rest of their training into TM-style training. In such a case, I would just keep driving the triples up. The triple reduces a little bit of the volume imparted on the body on the intensity day, yet handles a significant load. If the triples start to poop out, then the trainee could shift into more complicated stuff; ascending singles, singles across, ascending doubles, or doubles across (as well as rack pulls and speed deadlifts &#8212; subject matter for other posts and interviews). Of course this all depends on the current state of adaptation and what the trainee’s goals are. As a general rule I like to keep the total reps on intensity deadlift workouts below five (NOT including warm-ups). After all, it&#8217;s supposed to be a high intensity and low volume workout. To get appropriate super-compensation from the volume/intensity effect, you’ll need to maintain the weekly fluctuation of those variables, so don&#8217;t get excessive volume in on the intensity day.
+  
+
+  
+As you progress you’ll learn what your limitations were in the past and how you currently adapt to stress. Your training records will help provide data that will help you predict how you will adapt to stress in the future. You will become your own scientist as you continue to advance your strength throughout your life. I will continue giving you ideas and tools to use in your experiments. In the next TM post, we’ll talk more about how to manipulate the reps and sets of the volume and intensity days to continue your strength progress.
+
+ [1]: /blog/2011/01/the-texas-method-part-1/

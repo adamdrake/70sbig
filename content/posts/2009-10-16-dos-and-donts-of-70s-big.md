@@ -1,0 +1,164 @@
+---
+title: 'DOs and DON&rsquo;Ts of 70&rsquo;s Big'
+author: Justin Lascek
+type: post
+date: 2009-10-16T06:32:17+00:00
+url: /blog/2009/10/dos-and-donts-of-70s-big/
+categories:
+  - Silly
+tags:
+  - Chris
+
+---
+## There’s gotta be some standards, for god’s sakes
+
+<div id="attachment_33" style="width: 290px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-33" data-attachment-id="33" data-permalink="/about/5075_100174186661627_100000071370228_1414_5239246_n/" data-orig-file="/2009/08/5075_100174186661627_100000071370228_1414_5239246_n.jpg" data-orig-size="374,400" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="5075_100174186661627_100000071370228_1414_5239246_n" data-image-description="" data-medium-file="/2009/08/5075_100174186661627_100000071370228_1414_5239246_n-280x300.jpg" data-large-file="/2009/08/5075_100174186661627_100000071370228_1414_5239246_n.jpg" class="size-medium wp-image-33" title="5075_100174186661627_100000071370228_1414_5239246_n" src="/2009/08/5075_100174186661627_100000071370228_1414_5239246_n-280x300.jpg" alt="5075_100174186661627_100000071370228_1414_5239246_n" width="280" height="300" srcset="/2009/08/5075_100174186661627_100000071370228_1414_5239246_n-280x300.jpg 280w, /2009/08/5075_100174186661627_100000071370228_1414_5239246_n.jpg 374w" sizes="(max-width: 280px) 100vw, 280px" />
+  
+  <p id="caption-attachment-33" class="wp-caption-text">
+    The epitome of 70’s Big
+  </p>
+</div>
+
+<p style="text-align: center">
+  <p>
+    When the website went live, one of the first things that my friend Chris did was compile a list of things that would or would not exhibit what 70’s Big is all about. I share his concern. You see, 70’s Big has been alive for the better part of 2009. You, the reader, are at a disadvantage. You may not intuitively know what is acceptable.<br /> <br /> Hell, you may open your tub of soy protein after gelling your hair while listening to Nickelback and sipping a smoothie. For god’s sakes, this is for your own good! Okay? I can’t have you going around talking to your friends about 70’s Big when you’re convincing someone that your shirt is fucshia with a Bud Light in your hand. And I’m pretty sure Rip would find the athleticism to backflip kick you in the jaw if you were convinced Crown Royal was the best kind of whiskey. Look, it’s just bad for my reputation if you talk about 70’s Big after shaving your chest, doing a few sets of curls and push-ups, then hitting up the bar with your favorite &#8220;whore-stink&#8221; cologne on.<br /> <br /> No, I can’t have that. There has to be some standards, dammit.<br />
+  </p>
+  
+  <h3>
+    DOs
+  </h3>
+  
+  <ul>
+    <li>
+      Hairiness
+    </li>
+    <li>
+      <a href="http://images.art.com/images/-/Tom-Selleck---Magnum-PI--C10102602.jpeg" target="_blank">Mustaches</a>
+    </li>
+    <li>
+      <a href="http://www.gordoworld.com/gblog/uploaded_images/messner-721868.jpg" target="_blank">Beards</a>
+    </li>
+    <li>
+      Meat
+    </li>
+    <li>
+      Milk
+    </li>
+    <li>
+      <a href="http://www.firepit-and-grilling-guru.com/images/fire-pit-barbecue-wood.jpg" target="_blank">Fire</a>
+    </li>
+    <li>
+      Iron
+    </li>
+    <li>
+      Beer
+    </li>
+    <li>
+      <a href="http://1.bp.blogspot.com/_HbaApmpa-Po/ScO0-3AErOI/AAAAAAAAA18/eDWAKNEU4pc/s1600-h/three.jpg" target="_blank">Black and white pictures</a>
+    </li>
+    <li>
+      <a href="http://skatersocks.com/" target="_blank">Socks</a>
+    </li>
+    <li>
+      Short shorts
+    </li>
+    <li>
+      <a href="http://www.youtube.com/watch?v=72NMsRyD-6Q" target="_blank">Chicago</a> (the band)
+    </li>
+    <li>
+      <a href="http://www.youtube.com/watch?v=WbrjRKB586s" target="_blank">Led Zeppelin</a>
+    </li>
+    <li>
+      Chalk
+    </li>
+    <li>
+      BBQ and smoked meat
+    </li>
+    <li>
+      Bold coffee
+    </li>
+    <li>
+      Boots
+    </li>
+    <li>
+      <a href="http://www.lawndartdesign.com/guns/SAA_1.jpg" target="_blank">.45 Long Colt</a>
+    </li>
+    <li>
+      Pooping frequently
+    </li>
+    <li>
+      <a href="http://www.youtube.com/watch?v=KMEKKSmsVJs" target="_blank">Slaying zombies</a> (vaguely gruesome)
+    </li>
+  </ul>
+  
+  <p>
+  </p>
+  
+  <h3>
+    DON’Ts
+  </h3>
+  
+  <ul>
+    <li>
+      Shaving &#8212; specifically chests, arms, and legs
+    </li>
+    <li>
+      Tanning
+    </li>
+    <li>
+      Soy
+    </li>
+    <li>
+      Isolation exercise
+    </li>
+    <li>
+      Weighing less than 200 pounds
+    </li>
+    <li>
+      <a href="http://whi.s3.prod.lg1x8.simplecdn.net/images/748572/ua74_thumb.jpg" target="_blank">Under Armour</a>
+    </li>
+    <li>
+      Running
+    </li>
+    <li>
+      <a href="http://pop.ology.com/files/2009/05/jonas-brothers-skinny-jeans.jpg" target="_blank">Skinny Jeans</a>
+    </li>
+    <li>
+      <a href="http://www.powerhouse-fitness.co.uk/media/catalog/product/f/i/file_66.jpg" target="_blank">&#8220;Stop sign plates&#8221;</a>
+    </li>
+    <li>
+      Salad
+    </li>
+    <li>
+      <a href="http://www.bodybuilder-photos.com/galleries/2003/2003-11_dorian-yates-grand-prix/images/bodybuilder_a-IMG_0364.jpg" target="_blank">Bodybuilding</a>
+    </li>
+    <li>
+      <a href="http://www.mostbeautifulman.com/misc/DavisHarper/images/pic01.jpg" target="_blank">90’s Small</a>
+    </li>
+    <li>
+      Mirrors
+    </li>
+    <li>
+      Smoothie Bars
+    </li>
+    <li>
+      Tofu
+    </li>
+    <li>
+      Smith Machines
+    </li>
+    <li>
+      <a href="http://wedofunny.files.wordpress.com/2009/03/maxwell_zagorski2.jpg" target="_blank">Male models</a> (synonymous with 90’s Small)
+    </li>
+    <li>
+      P90X, Bowflex, Total Gym, &#8220;functional exercise&#8221;, &#8220;working the core&#8221;, etc.
+    </li>
+    <li>
+      <a href="http://c2.api.ning.com/files/LkYc36IfNZLP1p2FjpJ-cm4cNcgUXtGor46aWmGiwWl3YZc2OWpdO6SSnWKziw9gB16nCMytF53M*GQZBBy9xX0rlsOYSM6w/death_by_zombies.jpg" target="_blank">Killed by zombies</a> (humorously gruesome)
+    </li>
+  </ul>
+  
+  <p>
+    By no means is this list finalized or comprehensive. You’ve got a whole weekend to make suggestions. Choose them wisely&#8230;<br />
+  </p>

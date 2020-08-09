@@ -1,0 +1,78 @@
+---
+title: Australian Story
+author: Justin Lascek
+type: post
+date: 2011-02-16T17:10:51+00:00
+url: /blog/2011/02/australian-story/
+categories:
+  - Content
+
+---
+**Australian Story**
+  
+I meet all kinds of people through this website. I hesitate to accept lots of Facebook friend requests (it&#8217;s getting harder to tell a creeper from his profile picture), but I&#8217;m glad I accepted Tom&#8217;s. Tom is an Australian, ginger version of Brent Kim. Except Tom is taller. And is nothing like Brent except for his internet trolling ability.
+  
+
+  
+In any case, he told a compelling story on his Facebook status the other day. I deemed it good enough to share. Behold&#8230;
+  
+
+  
+_February 10 at 2:00am_:
+  
+I got to the gym today and as I was walking to the door I saw a hawk fly across my path. I walked over to where he&#8217;d been and saw what was left of the rooster that used to reside in a pen next to the gym (R.I.P. Blacky). I walked in to the gym and started warming up.
+  
+
+  
+_February 10 at 2:03am_:
+  
+Later on, I went to put some water in my shaker for my PWO Shake (2 scoops waxy maize, 1.5 scoops WPC) and noticed there was a little frog in the sink drain. I undid the u-bend and Australia&#8217;s strongest powerlifter took him from me and placed him in the little garden beside the entry. I went back in to finish my chins.
+  
+
+  
+_February 10 at 2:04am_:
+  
+Finally, as I was getting ready to leave I was notified by another mate that a goanna had arrived and decided that Blacky&#8217;s remains looked to be a delicious meal. We all stood around for 5-10 minutes and watched a goanna eat his dinner. After this, I went and collected my gear and drove home.
+  
+
+  
+
+
+<div id="attachment_3623" style="width: 410px" class="wp-caption aligncenter">
+  <a href="/2011/02/racehorse-goanna.jpg"><img aria-describedby="caption-attachment-3623" data-attachment-id="3623" data-permalink="/blog/2011/02/australian-story/racehorse-goanna/" data-orig-file="/2011/02/racehorse-goanna.jpg" data-orig-size="1155,866" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="racehorse-goanna" data-image-description="" data-medium-file="/2011/02/racehorse-goanna-400x299.jpg" data-large-file="/2011/02/racehorse-goanna-1024x767.jpg" src="/2011/02/racehorse-goanna-400x299.jpg" alt="" title="racehorse-goanna" width="400" height="299" class="size-medium wp-image-3623" srcset="/2011/02/racehorse-goanna-400x299.jpg 400w, /2011/02/racehorse-goanna-1024x767.jpg 1024w, /2011/02/racehorse-goanna.jpg 1155w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+  
+  <p id="caption-attachment-3623" class="wp-caption-text">
+    Goanna
+  </p>
+</div>
+
+
+  
+
+  
+The tone of this story makes me think of [this video][1]. Later in the comments, some guy (presumably Australian) said that it sounded like a Pokemon episode. Australia sounds interesting, no?
+  
+
+  
+**St. Patrick&#8217;s Day Sale**
+  
+The [70&#8217;s Big Store][2] is celebrating St. Patrick&#8217;s Day by offering a 17% discount on orders $35 or more. Make sure to use the coupon codes:
+  
+
+  
+[<img data-attachment-id="3624" data-permalink="/blog/2011/02/australian-story/ad_stpat_486x90/" data-orig-file="/2011/02/ad_stpat_486x90.jpg" data-orig-size="486,90" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="ad_stpat_486x90" data-image-description="" data-medium-file="/2011/02/ad_stpat_486x90-400x74.jpg" data-large-file="/2011/02/ad_stpat_486x90.jpg" src="/2011/02/ad_stpat_486x90.jpg" alt="" title="ad_stpat_486x90" width="486" height="90" class="aligncenter size-full wp-image-3624" srcset="/2011/02/ad_stpat_486x90.jpg 486w, /2011/02/ad_stpat_486x90-400x74.jpg 400w" sizes="(max-width: 486px) 100vw, 486px" />][2]
+  
+
+  
+Additionally, the &#8220;original logo&#8221; is now available on a green shirt so that you can look excessively manly while you get excessively drunk on March 17th. Win-win. Australians also celebrate St. Patty&#8217;s Day.
+  
+
+  
+<a class="boxl" href="#" onclick="window.open('http://70sBig.spreadshirt.com/','shopfenster','scrollbars=yes,width=650,height=450')"><img src="http://image.spreadshirt.com/image-server/image/product/17754379/view/1/type/png/width/190/height/190" alt="7096480-17754379" /></a>
+
+**Question of the Day**
+  
+Do you have any sweet lifting stories from a country not in north America?
+
+ [1]: http://www.youtube.com/watch?v=Ex2hj5rLN48
+ [2]: http://70sbig.spreadshirt.com/

@@ -1,0 +1,115 @@
+---
+title: July Challenge Results and BBQ Porn
+author: Gant
+type: post
+date: 2010-08-05T14:27:29+00:00
+url: /blog/2010/08/july-challenge-results-and-bbq-porn/
+categories:
+  - Food
+tags:
+  - pics
+
+---
+We had eleven ladies and 66 men take the 3 press-3 pullup challenge. Thirty one of those came from CrossFit affiliates (Monterey, Regina, and Works) and from hawkpeter’s workout group (not sure what kind of scene he’s running).
+  
+
+  
+Ladies first. The top five were AngDesi (32 rounds), Jenny L (26), Maritza (21), Amanda C (20), and Liz C (20). All eleven ladies were CrossFitters, so I have to give props there. Maybe the others will get back on board with this month’s challenge.
+  
+
+  
+Eight men topped the thirty round mark. Shae and Andres A stood out with 33 rounds apiece. Garage Fit and Beau were right behind with 32. rbuell, Gill, Jason G, and Adrian M had 30 apiece. CrossFitters predictably did well in this challenge, although none topped 200 pounds. The math-challenged Garage Fit was the heaviest 30-rounder at 195 pounds. For whatever reason, he scaled up as if he was 215.
+  
+
+  
+Thanks to everyone who participated. [Here][1] is the link to the google doc if you want to play with the raw data (Typskin).
+
+I will put the August Challenge up in a sticky. It is going to be a super total: 1RM max in snatch, C&J, squat, bench, and deadlift.
+  
+
+  
+The following pictures are meant to inspire you. While Justin was hopping around in a banana hammock and Brent was wearing his Just-PR’d-Dance Dance Revolution Smile, I was cooking for an engagement party. 80 pounds of meat for 20 people (I like leftovers). I even emailed Jacob and Justin when I cracked my first beer at 7:30 that morning. Behold the secrets of 70sBigness, a story in pictures.
+  
+
+  
+
+
+<div id="attachment_2451" style="width: 410px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-2451" data-attachment-id="2451" data-permalink="/blog/2010/08/july-challenge-results-and-bbq-porn/img_3176/" data-orig-file="/2010/08/IMG_3176.jpg" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 3G&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1280561708&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="IMG_3176" data-image-description="" data-medium-file="/2010/08/IMG_3176-400x300.jpg" data-large-file="/2010/08/IMG_3176-1024x768.jpg" src="/2010/08/IMG_3176-400x300.jpg" alt="" title="IMG_3176" width="400" height="300" class="size-medium wp-image-2451" srcset="/2010/08/IMG_3176-400x300.jpg 400w, /2010/08/IMG_3176-1024x768.jpg 1024w, /2010/08/IMG_3176.jpg 1600w" sizes="(max-width: 400px) 100vw, 400px" />
+  
+  <p id="caption-attachment-2451" class="wp-caption-text">
+    7:30 am. A fine day. Beer is open and charcoal chimney is going. This is my buddy's smoker. He bought it from the church group and wanted me to use it for this cook.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_2456" style="width: 410px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-2456" data-attachment-id="2456" data-permalink="/blog/2010/08/july-challenge-results-and-bbq-porn/img_3177/" data-orig-file="/2010/08/IMG_3177.jpg" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 3G&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1280563215&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="IMG_3177" data-image-description="" data-medium-file="/2010/08/IMG_3177-400x300.jpg" data-large-file="/2010/08/IMG_3177-1024x768.jpg" src="/2010/08/IMG_3177-400x300.jpg" alt="" title="IMG_3177" width="400" height="300" class="size-medium wp-image-2456" srcset="/2010/08/IMG_3177-400x300.jpg 400w, /2010/08/IMG_3177-1024x768.jpg 1024w, /2010/08/IMG_3177.jpg 1600w" sizes="(max-width: 400px) 100vw, 400px" />
+  
+  <p id="caption-attachment-2456" class="wp-caption-text">
+    7:59. Chimney is lit. Added the wood (1/2 oak, 1/2 mesquite). Finished the first beer and totasted the BBQ gods, asking them to give me a good cook for the day.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_2457" style="width: 310px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-2457" data-attachment-id="2457" data-permalink="/blog/2010/08/july-challenge-results-and-bbq-porn/img_3180/" data-orig-file="/2010/08/IMG_3180.jpg" data-orig-size="1200,1600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 3G&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1280563869&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="IMG_3180" data-image-description="" data-medium-file="/2010/08/IMG_3180-300x400.jpg" data-large-file="/2010/08/IMG_3180-768x1024.jpg" src="/2010/08/IMG_3180-300x400.jpg" alt="" title="IMG_3180" width="300" height="400" class="size-medium wp-image-2457" srcset="/2010/08/IMG_3180-300x400.jpg 300w, /2010/08/IMG_3180-768x1024.jpg 768w, /2010/08/IMG_3180.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />
+  
+  <p id="caption-attachment-2457" class="wp-caption-text">
+    My 6-year old son learning the craft. He's not 70sBig yet, but he's good for hauling 50 pound sand bags and tossing the 8 and 9 year olds at judo class.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_2458" style="width: 410px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-2458" data-attachment-id="2458" data-permalink="/blog/2010/08/july-challenge-results-and-bbq-porn/img_3181/" data-orig-file="/2010/08/IMG_3181.jpg" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 3G&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1280567201&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="IMG_3181" data-image-description="" data-medium-file="/2010/08/IMG_3181-400x300.jpg" data-large-file="/2010/08/IMG_3181-1024x768.jpg" src="/2010/08/IMG_3181-400x300.jpg" alt="" title="IMG_3181" width="400" height="300" class="size-medium wp-image-2458" srcset="/2010/08/IMG_3181-400x300.jpg 400w, /2010/08/IMG_3181-1024x768.jpg 1024w, /2010/08/IMG_3181.jpg 1600w" sizes="(max-width: 400px) 100vw, 400px" />
+  
+  <p id="caption-attachment-2458" class="wp-caption-text">
+    52 pound curls. As functional as it gets. (Pictured: 6 pork shoulders)
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_2459" style="width: 310px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-2459" data-attachment-id="2459" data-permalink="/blog/2010/08/july-challenge-results-and-bbq-porn/img_3187/" data-orig-file="/2010/08/IMG_3187.jpg" data-orig-size="1200,1600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 3G&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1280595800&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="IMG_3187" data-image-description="" data-medium-file="/2010/08/IMG_3187-300x400.jpg" data-large-file="/2010/08/IMG_3187-768x1024.jpg" src="/2010/08/IMG_3187-300x400.jpg" alt="" title="IMG_3187" width="300" height="400" class="size-medium wp-image-2459" srcset="/2010/08/IMG_3187-300x400.jpg 300w, /2010/08/IMG_3187-768x1024.jpg 768w, /2010/08/IMG_3187.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />
+  
+  <p id="caption-attachment-2459" class="wp-caption-text">
+    Stopped by my friend's house to get a vacuum sealer. This is the handgun rack in his gun room (not pictured: 40 rifles). What does this have to do with this post? Because it's Texas, and I've already discussed beer and BBQ.
+  </p>
+</div>
+
+
+  
+
+  
+
+
+<div id="attachment_2460" style="width: 410px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-2460" data-attachment-id="2460" data-permalink="/blog/2010/08/july-challenge-results-and-bbq-porn/img_3185/" data-orig-file="/2010/08/IMG_3185.jpg" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 3G&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1280588396&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="IMG_3185" data-image-description="" data-medium-file="/2010/08/IMG_3185-400x300.jpg" data-large-file="/2010/08/IMG_3185-1024x768.jpg" src="/2010/08/IMG_3185-400x300.jpg" alt="" title="IMG_3185" width="400" height="300" class="size-medium wp-image-2460" srcset="/2010/08/IMG_3185-400x300.jpg 400w, /2010/08/IMG_3185-1024x768.jpg 1024w, /2010/08/IMG_3185.jpg 1600w" sizes="(max-width: 400px) 100vw, 400px" />
+  
+  <p id="caption-attachment-2460" class="wp-caption-text">
+    Pork shoulder, pork ribs, back ribs, pork sausage, and chicken.
+  </p>
+</div>
+
+ [1]: http://spreadsheets.google.com/ccc?key=0AtbENTXfGF7adEhKZjUtRDctWUx6V29YRzdhal9SMkE&hl=en&authkey=COPEuYQB

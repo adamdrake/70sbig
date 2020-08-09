@@ -1,0 +1,78 @@
+baseURL: https://70sbig.com
+languageCode: en-us
+title: 70s Big
+theme: flex
+enableRobotsTXT: true
+paginate: 10
+
+permalinks:
+  posts: '/:filename/'
+  pages: '/:filename/'
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+
+
+params:
+  mainSections: "post"
+  color: black           # Any color in CSS syntax
+  width: 1000px          # Any length in CSS syntax
+  footer:
+  rss: To subscribe to this RSS feed, copy its address and paste it into your
+    favorite feed reader.
+  summaries: false      # Set to true to show summaries of posts on homepage
+  divider: '\2015'      # Set to false to remove divider below posts on homepage
+  schema: false         # Set to true to add Schema.org metadata
+  opengraph: false      # Set to true to add Open Graph metadata
+  twittercards: false   # Set to true to add Twitter Cards metadata
+  utterances:
+    repo:               # Set to Utterances repo URL to add Utterances comments
+    issueterm: pathname
+    theme: github-light
+  netlify:
+    honeypot: false     # Set to true to add honeypot field in contact form
+    recaptcha: false    # Set to true to add recaptcha challenge in contact form
+  # css:                # Uncomment to add custom CSS from a list of files
+  #   - css/foo.css
+  #   - bar.css
+  # js:                 # Uncomment to add custom JS from a list of files
+  #   - js/foo.js
+  #   - bar.js
+
+
+menu:
+  nav:
+  - name: Donate
+    url: donate/
+    weight: 1
+  - name: Books
+    url: books/
+    weight: 2
+  - name: Workshops
+    url: workshops/
+    weight: 3
+  - name: About
+    url: about/
+    weight: 5
+  - name: Bios
+    url: bios/
+    weight: 8
+  - name: Hall of Fame
+    url: hall-of-fame/
+    weight: 10
+#  - name: Posts
+#    url: posts/
+#    weight: 96
+#  - name: Tags
+#    url: tags/
+#    weight: 97
+#  - name: Categories
+#    url: categories/
+#    weight: 98
+#  - name: RSS
+#    url: index.xml
+#    weight: 99

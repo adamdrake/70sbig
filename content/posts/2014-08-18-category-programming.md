@@ -1,0 +1,79 @@
+---
+title: Category Programming
+author: Justin Lascek
+type: post
+date: 2014-08-18T15:31:09+00:00
+url: /blog/2014/08/category-programming/
+categories:
+  - Athletes
+  - Content
+  - Military
+  - Powerlifting
+  - Programming
+  - Training
+
+---
+Some times life gets in the way of training. Whether it&#8217;s a surprise work project, family issues, or forced physical activity, it can throw off a well-intentioned strength program. The best way to mitigate the damage is by trying to hit the most important lifts the way the program wanted (i.e. getting a bit of volume if it was supposed to be a volume day). This might mean performing an abbreviated training session by cutting some exercises. Other options include removing a whole training day, shifting the entire week forward or backward a day, or having some light or medium sessions before getting back into heavy training.
+
+But there are some of you out there that can&#8217;t even commit to a regular template because your schedule is so erratic &#8212; like parents with a newborn baby, shift workers, nurses, fire fighters, police officers, and military personnel. I see this the most in special operations guys; training, missions, or scheduled physical training will interfere with training templates.
+
+The following is what I like to program for these populations &#8212; especially SOF guys &#8212; that need to tack quality strength training onto their demanding schedule.
+
+**Categories**
+
+There are three or four categories that will comprise a strength training session. There is the Main Lift, a Pressing Movement, Assistance Work (or Pulling Movement), and a Trunk Builder. The trainee will pick _one_ exercise from each category for a given session. The more deficient a trainee is in a given area of strength or muscular balance, the more they should emphasize that weakness in their week.
+
+<div id="attachment_10303" style="width: 249px" class="wp-caption alignright">
+  <a href="/2014/08/jdead.jpg"><img aria-describedby="caption-attachment-10303" data-attachment-id="10303" data-permalink="/blog/2014/08/category-programming/jdead/" data-orig-file="/2014/08/jdead.jpg" data-orig-size="499,669" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Justin&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1408361237&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="jdead" data-image-description="" data-medium-file="/2014/08/jdead-149x200.jpg" data-large-file="/2014/08/jdead-447x600.jpg" class=" wp-image-10303" src="/2014/08/jdead-447x600.jpg" alt="Deadlifts don't have to be back breaking to be effective" width="239" height="321" srcset="/2014/08/jdead-447x600.jpg 447w, /2014/08/jdead-111x150.jpg 111w, /2014/08/jdead-149x200.jpg 149w, /2014/08/jdead-223x300.jpg 223w, /2014/08/jdead.jpg 499w" sizes="(max-width: 239px) 100vw, 239px" /></a>
+  
+  <p id="caption-attachment-10303" class="wp-caption-text">
+    Deadlifts don&#8217;t have to be back breaking to be effective
+  </p>
+</div>
+
+Having categories allows the trainee to pick what exercises they can do based on what other stress they have had to endure in the week. For example, if there has been a lot of pounding on the knees via running or rucking, then squatting or cleans may not be desirable and will only limit recovery. Instead, that trainee may choose to do medium deadlifts.
+
+Also, each session doesn&#8217;t have to be &#8220;balls to the wall&#8221;. Even doing a light or medium session with basic barbell exercises will maintain or build strength, muscularity, and prevent injuries. Hard charging athletes and SOF guys typically need to be taught the concept of rest or lower stress training.
+
+The category method is essentially an organized autoregulation of strength training. It still provides a good systemic stress and if two or three sessions are preformed a week, then strength can be maintained or built on top of a rigorous schedule.
+
+**Main Lifts **include squat, deadlift, power clean and jerk, and front squat.
+
+**Presses **include press, bench press, and push press.
+
+**Assistance Work** includes pull-ups, chin-ups, barbell rows, and RDLs.
+
+**Trunk Builders** include side planks, Turkish get-ups, and spinal stabilization exercises (e.g. Stuart McGill stuff).
+
+Note the exercises are all compound movements that work lots of joints and musculature. If you have limited time to strength train &#8212; as SOF personnel often do &#8212; then make the most of that time with movements that use large muscles that take the major joints through a full range of motion. Prehab/Rehab and Mobility work is not included here as it should be a separate, yet consistent, element in a training program.
+
+* * *
+
+<iframe src="//instagram.com/p/orWpmaS9Gd/embed/" width="285" height="327" frameborder="0" scrolling="no"></iframe>
+
+<p style="text-align: left;">
+  <em>Mike uses front squats in his program to build his squat and stone lifting strength. </em>
+</p>
+
+* * *
+
+<p style="text-align: left;">
+  <p style="text-align: left;">
+    The trainee can vary the above exercises (i.e. they can perform cleans by themselves or clean and jerks instead of the power variation), but exercises don&#8217;t need to be cute. Chains, bands, or weird-ass partial movements are unnecessary for most athletes. Once a good strength base has been established (in the barbell lifts as well as balanced musculature), training can shift into more explosive or speed training to maximize the strength-to-weight ratio, but most athletes and SOF guys are in a perpetual state of being beaten down and recovering that a shift in training usually isn&#8217;t necessary.
+  </p>
+  
+  <p>
+    Generally the Main Lifts and Presses are done for three sets of three to five reps whereas Assistance Work is done for three to five sets of five to ten reps. Certain exercises will require a different set and rep scheme &#8212; like deadlifts, clean and jerks, power cleans, and Turkish Get-Ups &#8212; but their inclusion is more important than their rep schemes.
+  </p>
+  
+  <p>
+    I keep referencing SOF guys because I made this template when programming for them, but this can work for any person who has a crazy schedule or simply wants more freedom and variation in their program. If you&#8217;re busy or getting beaten down throughout the week, try this Category Method of programming and choose exercises you want to focus on for a couple of months. Even if your schedule isn&#8217;t crazy, this type of programming may give you some stimulating variety in your training yet still focus on a handful of lifts you want to improve on.
+  </p>
+  
+  <p>
+    This kind of template will allow someone to be consistent in their training regardless of what else is going on in their life. And with strength and muscularity, consistency is the first step to success.
+  </p>
+  
+  <p>
+    &nbsp;
+  </p>

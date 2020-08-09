@@ -1,0 +1,110 @@
+---
+title: Hyde Park Gym Ladies at the Longhorn Open
+author: Cloud
+type: post
+date: 2012-11-12T17:20:37+00:00
+url: /blog/2012/11/hyde-park-gym-ladies-at-the-longhorn-open/
+categories:
+  - Content
+  - Females
+
+---
+<p style="text-align: left;">
+  <em>Today&#8217;s female post is written by Jacob Cloud.&nbsp;</em>
+</p>
+
+<p style="text-align: left;">
+  I&#8217;ve been following 70sBig since the beginning of time, and have tried to contribute in many ways. Sometimes that means writing guest posts, sending in silly videos, or meet recaps, but it also means being an ambassador in the real world, which is something I take pretty seriously. This site has grown into a community, and I&#8217;m damn happy to be a part of it.
+</p>
+
+<div id="attachment_8018" style="width: 294px" class="wp-caption alignright">
+  <a href="/2012/11/Group-Shot1.jpg"><img aria-describedby="caption-attachment-8018" data-attachment-id="8018" data-permalink="/blog/2012/11/hyde-park-gym-ladies-at-the-longhorn-open/group-shot-2/" data-orig-file="/2012/11/Group-Shot1.jpg" data-orig-size="960,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Group Shot" data-image-description="" data-medium-file="/2012/11/Group-Shot1-200x150.jpg" data-large-file="/2012/11/Group-Shot1-450x337.jpg" class=" wp-image-8018  " title="Group Shot" src="/2012/11/Group-Shot1-450x337.jpg" alt="" width="284" height="212" srcset="/2012/11/Group-Shot1-450x337.jpg 450w, /2012/11/Group-Shot1-150x112.jpg 150w, /2012/11/Group-Shot1-200x150.jpg 200w, /2012/11/Group-Shot1-400x300.jpg 400w, /2012/11/Group-Shot1.jpg 960w" sizes="(max-width: 284px) 100vw, 284px" /></a>
+  
+  <p id="caption-attachment-8018" class="wp-caption-text">
+    Back Row: Caroyln, Jessica, April, Sarah. Front Row: Dana and her two trophies.
+  </p>
+</div>
+
+<p style="text-align: left;">
+  One thing I&#8217;ve been really proud of Justin for is his decision to make Mondays all about the ladies. I&#8217;m a huge fan of female lifters, and have a lot of fun coaching and helping many of them at <a href="http://hydeparkgym.com/" target="_blank">Hyde Park Gym</a>. My girlfriend has taken to competing this year, and the enthusiasm she shows is infectious. Between the two of us, we&#8217;ve successfully made a huge push to get more members of Hyde Park Gym in Austin competing. Remember, competing is one of the tenets of this site. Recently, we held a mock meet at the gym to introduce more people to the basics of a powerlifting meet, and on November 3rd we had about a dozen guys and gals from HPG compete (all raw) at the USAPL Longhorn Open in Austin. That group involved 5 awesome chicks which I&#8217;m going to brag about in this post. With their help, we were able to score a 2nd place combined team trophy in our first team competition.
+</p>
+
+<div id="attachment_8031" style="width: 280px" class="wp-caption alignright">
+  <a href="/2012/11/Jessica-bench.jpg"><img aria-describedby="caption-attachment-8031" data-attachment-id="8031" data-permalink="/blog/2012/11/hyde-park-gym-ladies-at-the-longhorn-open/jessica-bench/" data-orig-file="/2012/11/Jessica-bench.jpg" data-orig-size="960,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Jessica bench" data-image-description="" data-medium-file="/2012/11/Jessica-bench-200x150.jpg" data-large-file="/2012/11/Jessica-bench-450x337.jpg" class="wp-image-8031 " title="Jessica bench" src="/2012/11/Jessica-bench-450x337.jpg" alt="" width="270" height="202" srcset="/2012/11/Jessica-bench-450x337.jpg 450w, /2012/11/Jessica-bench-150x112.jpg 150w, /2012/11/Jessica-bench-200x150.jpg 200w, /2012/11/Jessica-bench-400x300.jpg 400w, /2012/11/Jessica-bench.jpg 960w" sizes="(max-width: 270px) 100vw, 270px" /></a>
+  
+  <p id="caption-attachment-8031" class="wp-caption-text">
+    Jessica showing off her bench arch
+  </p>
+</div>
+
+<p style="text-align: left;">
+  Let&#8217;s start with my special lady friend, Jessica. She&#8217;s relatively new to powerlifting, but already quite passionate about the sport. At Raw Nationals in August, she went 9/9 in the 60kg class, and was able to meet a bunch of legends, including sharing a platform with the famous Jennifer Thompson. For this meet, Jess cut down to 56kg, which had been a goal of hers for awhile. The cut was going great until the night before the meet, when a practice weigh-in at the equipment check proved that our home scale was a full kilo lighter than the meet scale. Drastic measures meant for a long Friday night and Saturday morning, and she ended up being the final morning lifter to make weight at exactly 56.0kg, with about a minute to go on the clock. This didn&#8217;t leave much time to&nbsp;re-hydrate&nbsp;before squats, and we made the easy&nbsp;decision&nbsp;to pass on her 3rd attempt to allow her to rest/feed/hydrate before benching. She ended up going 8/8 on the day, PRing her competition deadlift (125kg/275lbs), total (247.5kg), and Wilks, and then went on to help me handle several of the male lifters in the later flights. We learned some lessons for next time, for sure, but she made the best of her situation and came out smiling.
+</p>
+
+<div id="attachment_8027" style="width: 280px" class="wp-caption alignright">
+  <a href="/2012/11/april-warm-up.jpg"><img aria-describedby="caption-attachment-8027" data-attachment-id="8027" data-permalink="/blog/2012/11/hyde-park-gym-ladies-at-the-longhorn-open/april-warm-up/" data-orig-file="/2012/11/april-warm-up.jpg" data-orig-size="720,960" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="April warm-up" data-image-description="" data-medium-file="/2012/11/april-warm-up-150x200.jpg" data-large-file="/2012/11/april-warm-up-450x600.jpg" class=" wp-image-8027 " title="April warm-up" src="/2012/11/april-warm-up-450x600.jpg" alt="" width="270" height="360" srcset="/2012/11/april-warm-up-450x600.jpg 450w, /2012/11/april-warm-up-112x150.jpg 112w, /2012/11/april-warm-up-150x200.jpg 150w, /2012/11/april-warm-up-225x300.jpg 225w, /2012/11/april-warm-up.jpg 720w" sizes="(max-width: 270px) 100vw, 270px" /></a>
+  
+  <p id="caption-attachment-8027" class="wp-caption-text">
+    April in the warm-up room
+  </p>
+</div>
+
+We had two ladies in the 60kg class, both in their first official competition. April&#8217;s husband, Tanner, is a friend of mine who I really got to know at Raw Nats when I offered to help handle him, since I had another lifter in his 181 class (RoryT, who also posts on 70&#8217;s Big). I believe it was at that meet that Jessica convinced April she should also compete instead of watching from the stands. Since this was her first meet, April smartly stayed conservative with her lifts, and Tanner helped coach her to a very successful and confidence-inspiring 7/9 performance. The first meet is often the most memorable, but I have no doubt April will be setting lots of unforgettable PRs in the near future.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<div id="attachment_8028" style="width: 226px" class="wp-caption alignleft">
+  <a href="/2012/11/dana-squat.jpg"><img aria-describedby="caption-attachment-8028" data-attachment-id="8028" data-permalink="/blog/2012/11/hyde-park-gym-ladies-at-the-longhorn-open/dana-squat/" data-orig-file="/2012/11/dana-squat.jpg" data-orig-size="720,960" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Dana squat" data-image-description="" data-medium-file="/2012/11/dana-squat-150x200.jpg" data-large-file="/2012/11/dana-squat-450x600.jpg" class="wp-image-8028 " title="Dana squat" src="/2012/11/dana-squat-450x600.jpg" alt="" width="216" height="288" srcset="/2012/11/dana-squat-450x600.jpg 450w, /2012/11/dana-squat-112x150.jpg 112w, /2012/11/dana-squat-150x200.jpg 150w, /2012/11/dana-squat-225x300.jpg 225w, /2012/11/dana-squat.jpg 720w" sizes="(max-width: 216px) 100vw, 216px" /></a>
+  
+  <p id="caption-attachment-8028" class="wp-caption-text">
+    Dana says &#8220;gotta wear the granny glasses to see the smooth and knurling and get the weight balanced!&#8221;
+  </p>
+</div>
+
+<p style="text-align: left;">
+  Our second 60kg lifter, Dana, is a self-described soccer mom. Her daughter out-cuted everyone at the equipment check, bragging about how strong her Mom was, and even asking her to flex her guns for all of us (we were impressed). Dana didn&#8217;t disappoint on Meet day, winning 1st in her Master&#8217;s class with a 8/9 performance. Her trainer at the gym, John, is an experienced (and ox-strong) powerlifter, and he set her up with a nice spreadsheet beforehand, so she had all of her attempts and even warm-ups planned out ahead of time. He wasn&#8217;t able to attend the meet, so I helped her out in the warm-up room (when, inevitably, timing always seems to go wrong), did my best to help settle her nerves, and everyone cheered her on for her big lifts. She ended up with a very nice 262.5kg total and an impressive 297 Wilks.
+</p>
+
+<div id="attachment_8026" style="width: 280px" class="wp-caption alignright">
+  <a href="/2012/11/sarah-deadlift.jpg"><img aria-describedby="caption-attachment-8026" data-attachment-id="8026" data-permalink="/blog/2012/11/hyde-park-gym-ladies-at-the-longhorn-open/sarah-deadlift/" data-orig-file="/2012/11/sarah-deadlift.jpg" data-orig-size="720,960" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Sarah deadlift" data-image-description="" data-medium-file="/2012/11/sarah-deadlift-150x200.jpg" data-large-file="/2012/11/sarah-deadlift-450x600.jpg" class=" wp-image-8026 " title="Sarah deadlift" src="/2012/11/sarah-deadlift-450x600.jpg" alt="" width="270" height="360" srcset="/2012/11/sarah-deadlift-450x600.jpg 450w, /2012/11/sarah-deadlift-112x150.jpg 112w, /2012/11/sarah-deadlift-150x200.jpg 150w, /2012/11/sarah-deadlift-225x300.jpg 225w, /2012/11/sarah-deadlift.jpg 720w" sizes="(max-width: 270px) 100vw, 270px" /></a>
+  
+  <p id="caption-attachment-8026" class="wp-caption-text">
+    Sarah will kill me for using this picture.
+  </p>
+</div>
+
+<p style="text-align: left;">
+  We also had 2 more female lifters, both in the 67.5kg class. Neither of them had to worry about making weight, and ended up on the lighter end of the class. Sarah has competed in one other USAPL meet, and is a helluva lifter, though you&#8217;d never know it based on her Master&#8217;s degree in being a Librarian, or something along those lines. She and Jessica tend to talk a lot of smack in the gym (In&nbsp;actuality,&nbsp;Jessica does 90% of the talking, and Sarah just smiles and squats), and they have a very friendly rivalry that helps push them in a positive direction. Sarah ended up going 8/9, and I believe she PR&#8217;d her bench and deadlift. When contemplating what to call on her third dead, Sarah asked if she should go for 275 or 281. Jessica&#8217;s response was something along the lines of &#8220;If you don&#8217;t get 281, I&#8217;m going to punch you.&#8221; Sarah did, and in doing so, ended up beating Jessica&#8217;s Wilks score by 0.3 points (291.51 to 291.21). This rivalry has just begun, and will be a lot of fun to watch in 2013.
+</p>
+
+<div id="attachment_8025" style="width: 280px" class="wp-caption alignleft">
+  <a href="/2012/11/caroyln-squat.jpg"><img aria-describedby="caption-attachment-8025" data-attachment-id="8025" data-permalink="/blog/2012/11/hyde-park-gym-ladies-at-the-longhorn-open/caroyln-squat/" data-orig-file="/2012/11/caroyln-squat.jpg" data-orig-size="960,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Caroyln Squat" data-image-description="" data-medium-file="/2012/11/caroyln-squat-200x150.jpg" data-large-file="/2012/11/caroyln-squat-450x337.jpg" class="wp-image-8025 " title="Caroyln Squat" src="/2012/11/caroyln-squat-450x337.jpg" alt="" width="270" height="202" srcset="/2012/11/caroyln-squat-450x337.jpg 450w, /2012/11/caroyln-squat-150x112.jpg 150w, /2012/11/caroyln-squat-200x150.jpg 200w, /2012/11/caroyln-squat-400x300.jpg 400w, /2012/11/caroyln-squat.jpg 960w" sizes="(max-width: 270px) 100vw, 270px" /></a>
+  
+  <p id="caption-attachment-8025" class="wp-caption-text">
+    Carolyn killing a 226lb squat.
+  </p>
+</div>
+
+<p style="text-align: left;">
+  Our final lifter, Carolyn, turned out to be the surprise of the group. She&#8217;s an awesome and strong gal for sure; we all knew that. What we didn&#8217;t expect was that she would show up and and deadlift 330 pounds in her first meet! Her special guy friend, Eric, also a national level lifter, has only been coaching her in powerlifting for a couple months, but she showed a lot of talent and poise, and destroyed some serious weights, resulting in a 9/9 performance for a 310kg total and a 331 Wilks. Very impressive!
+</p>
+
+<div id="attachment_8037" style="width: 280px" class="wp-caption alignright">
+  <a href="/2012/11/Me-and-Jess.jpg"><img aria-describedby="caption-attachment-8037" data-attachment-id="8037" data-permalink="/blog/2012/11/hyde-park-gym-ladies-at-the-longhorn-open/me-and-jess/" data-orig-file="/2012/11/Me-and-Jess.jpg" data-orig-size="720,960" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Me and Jess" data-image-description="" data-medium-file="/2012/11/Me-and-Jess-150x200.jpg" data-large-file="/2012/11/Me-and-Jess-450x600.jpg" class=" wp-image-8037 " title="Me and Jess" src="/2012/11/Me-and-Jess-450x600.jpg" alt="" width="270" height="360" srcset="/2012/11/Me-and-Jess-450x600.jpg 450w, /2012/11/Me-and-Jess-112x150.jpg 112w, /2012/11/Me-and-Jess-150x200.jpg 150w, /2012/11/Me-and-Jess-225x300.jpg 225w, /2012/11/Me-and-Jess.jpg 720w" sizes="(max-width: 270px) 100vw, 270px" /></a>
+  
+  <p id="caption-attachment-8037" class="wp-caption-text">
+    Jess showing off her trophy, and her proud Coach.
+  </p>
+</div>
+
+<p style="text-align: left;">
+  The point of this post is not only to brag on my female friends at the gym, but to urge more of you to compete. The first thing I usually hear people say is &#8220;I&#8217;m not strong enough!&#8221; That&#8217;s bullshit. These ladies are all of various strength and experience levels and I can say without a doubt that every one of them had a great time, and I know most of them are already planning to compete again in the near future. It&#8217;s important to prepare for your first meet, but it&#8217;s even more important to sign up and do the damn thing. All of these ladies ignored potential excuses, signed up, showed up, and lifted their asses off, and now they have a ton of fans, friends, and even rivals who are eager to see what they&#8217;ll do in their next competition. The bottom line is that competition helps you set and achieve goals, so get out and do it.
+</p>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://70sbig.com/</loc>
+    <lastmod>2019-11-28T16:18:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://70sbig.com/posts/</loc>
     <lastmod>2019-11-28T16:18:00+00:00</lastmod>
   </url>
@@ -320,11 +325,6 @@
   <url>
     <loc>https://70sbig.com/blog/2015/02/pr-friday-20-feb-2015/</loc>
     <lastmod>2015-02-20T13:26:32+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://70sbig.com/</loc>
-    <lastmod>2015-02-20T13:22:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2203,11 +2203,6 @@
   </url>
   
   <url>
-    <loc>https://70sbig.com/tags/belt/</loc>
-    <lastmod>2012-07-03T06:33:18+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://70sbig.com/tags/belts/</loc>
     <lastmod>2012-07-03T06:33:18+00:00</lastmod>
   </url>
@@ -2260,11 +2255,6 @@
   <url>
     <loc>https://70sbig.com/tags/klokov/</loc>
     <lastmod>2012-06-27T16:21:12+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://70sbig.com/tags/chris/</loc>
-    <lastmod>2012-06-26T13:28:48+00:00</lastmod>
   </url>
   
   <url>
@@ -5113,6 +5103,11 @@
   </url>
   
   <url>
+    <loc>https://70sbig.com/tags/belt/</loc>
+    <lastmod>2010-06-17T04:56:43+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://70sbig.com/blog/2010/06/brent-belts-big-ones/</loc>
     <lastmod>2010-06-17T04:56:43+00:00</lastmod>
   </url>
@@ -5380,6 +5375,11 @@
   <url>
     <loc>https://70sbig.com/blog/2010/04/remember-the-tsc/</loc>
     <lastmod>2010-04-21T14:58:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://70sbig.com/tags/chris/</loc>
+    <lastmod>2010-04-21T07:26:08+00:00</lastmod>
   </url>
   
   <url>
@@ -6363,11 +6363,6 @@
   </url>
   
   <url>
-    <loc>https://70sbig.com/tags/food/</loc>
-    <lastmod>2009-10-01T05:19:57+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://70sbig.com/blog/2009/10/rip-tells-about-doug-young/</loc>
     <lastmod>2009-10-01T05:19:57+00:00</lastmod>
   </url>
@@ -6385,6 +6380,11 @@
   <url>
     <loc>https://70sbig.com/blog/2009/09/equal-opportunity/</loc>
     <lastmod>2009-09-30T09:00:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://70sbig.com/tags/food/</loc>
+    <lastmod>2009-09-29T18:03:55+00:00</lastmod>
   </url>
   
   <url>

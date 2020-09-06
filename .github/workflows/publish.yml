@@ -17,5 +17,6 @@ jobs:
           fetch-depth: 1
       - name: 🚀 Build and deploy
         env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
           HUGO_ARGS: '--disableKinds RSS'
         uses: victoriadrake/hugo-latest-cd@master
